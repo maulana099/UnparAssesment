@@ -15,7 +15,10 @@ $nama_lengkap = $data['nama_lengkap'];
  <div class="container-fluid" id="container-wrapper">
   <div class="d-sm-flex align-items-center justify-content-between mb-4">
     <h1 class="h3 mb-0 text-gray-800">Nilai Indeks Faktor MK</h1>
-    <a href="cetakIPK.php?&amp;&amp;id=<?php echo $data['nokta']; ?>" class="btn btn-success btn-sm" target="_blank" >Cetak IPK</a>
+    <!-- <a href="cetakIPK.php?&amp;&amp;id=<?php echo $data['nokta']; ?>" class="btn btn-success btn-sm" target="_blank" >Cetak IPK</a> -->
+    <button type="button" class="btn btn-success btn-sm" data-toggle="modal" data-target="#exampleModalCenter">
+        CETAK IPK
+      </button>
   </div>
 
   <!-- Row -->

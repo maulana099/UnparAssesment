@@ -77,6 +77,6 @@ foreach ($query as $value) {
 
 }
 
-echo "<script>alert('Data Berhasil Diedit');document.location='index.php?page=totalTampil&&id=$nokta'</script>";
+echo "<script>alert('Data Total Poin Berhasil DI RESET..');document.location='index.php?page=totalTampil&&id=$nokta'</script>";
 
 ?>
