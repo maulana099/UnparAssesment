@@ -1,0 +1,664 @@
+[23-Nov-2020 10:06:49] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapenghargaan.php on line 6
+[24-Nov-2020 09:31:26] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 6
+[24-Nov-2020 09:33:13] PHP Parse error:  syntax error, unexpected '>', expecting T_STRING or T_VARIABLE or '$' in /home/piic6383/public_html/mahasiswa/dataorganisasi.php on line 100
+[24-Nov-2020 09:33:41] PHP Parse error:  syntax error, unexpected '>', expecting T_STRING or T_VARIABLE or '$' in /home/piic6383/public_html/mahasiswa/dataorganisasi.php on line 100
+[24-Nov-2020 09:33:42] PHP Parse error:  syntax error, unexpected '>', expecting T_STRING or T_VARIABLE or '$' in /home/piic6383/public_html/mahasiswa/dataorganisasi.php on line 100
+[24-Nov-2020 09:33:42] PHP Parse error:  syntax error, unexpected '>', expecting T_STRING or T_VARIABLE or '$' in /home/piic6383/public_html/mahasiswa/dataorganisasi.php on line 100
+[24-Nov-2020 09:33:43] PHP Parse error:  syntax error, unexpected '>', expecting T_STRING or T_VARIABLE or '$' in /home/piic6383/public_html/mahasiswa/dataorganisasi.php on line 100
+[24-Nov-2020 09:33:43] PHP Parse error:  syntax error, unexpected '>', expecting T_STRING or T_VARIABLE or '$' in /home/piic6383/public_html/mahasiswa/dataorganisasi.php on line 100
+[24-Nov-2020 09:33:43] PHP Parse error:  syntax error, unexpected '>', expecting T_STRING or T_VARIABLE or '$' in /home/piic6383/public_html/mahasiswa/dataorganisasi.php on line 100
+[24-Nov-2020 09:33:44] PHP Parse error:  syntax error, unexpected '>', expecting T_STRING or T_VARIABLE or '$' in /home/piic6383/public_html/mahasiswa/dataorganisasi.php on line 100
+[24-Nov-2020 09:33:44] PHP Parse error:  syntax error, unexpected '>', expecting T_STRING or T_VARIABLE or '$' in /home/piic6383/public_html/mahasiswa/dataorganisasi.php on line 100
+[24-Nov-2020 09:33:47] PHP Parse error:  syntax error, unexpected '>', expecting T_STRING or T_VARIABLE or '$' in /home/piic6383/public_html/mahasiswa/dataorganisasi.php on line 100
+[24-Nov-2020 09:40:45] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapenghargaan.php on line 6
+[24-Nov-2020 09:41:00] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapenghargaan.php on line 6
+[24-Nov-2020 09:42:01] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapenghargaan.php on line 6
+[24-Nov-2020 09:43:28] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 6
+[24-Nov-2020 09:43:48] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapenghargaan.php on line 6
+[24-Nov-2020 09:43:58] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapenghargaan.php on line 6
+[24-Nov-2020 09:44:05] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapenghargaan.php on line 6
+[24-Nov-2020 09:45:29] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 6
+[24-Nov-2020 09:48:40] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 6
+[24-Nov-2020 09:48:57] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 6
+[24-Nov-2020 09:49:05] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 6
+[24-Nov-2020 09:49:58] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 6
+[24-Nov-2020 09:50:14] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 6
+[24-Nov-2020 09:51:18] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 6
+[24-Nov-2020 09:51:41] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapenghargaan.php on line 6
+[24-Nov-2020 09:56:35] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapenghargaan.php on line 6
+[24-Nov-2020 09:57:02] PHP Parse error:  syntax error, unexpected '<' in /home/piic6383/public_html/mahasiswa/datapelatihan.php on line 87
+[24-Nov-2020 09:57:04] PHP Parse error:  syntax error, unexpected '<' in /home/piic6383/public_html/mahasiswa/datapelatihan.php on line 87
+[24-Nov-2020 09:57:05] PHP Parse error:  syntax error, unexpected '<' in /home/piic6383/public_html/mahasiswa/datapelatihan.php on line 87
+[24-Nov-2020 09:57:05] PHP Parse error:  syntax error, unexpected '<' in /home/piic6383/public_html/mahasiswa/datapelatihan.php on line 87
+[24-Nov-2020 09:57:12] PHP Parse error:  syntax error, unexpected '<' in /home/piic6383/public_html/mahasiswa/datapelatihan.php on line 87
+[24-Nov-2020 09:57:13] PHP Parse error:  syntax error, unexpected '<' in /home/piic6383/public_html/mahasiswa/datapelatihan.php on line 87
+[24-Nov-2020 09:57:13] PHP Parse error:  syntax error, unexpected '<' in /home/piic6383/public_html/mahasiswa/datapelatihan.php on line 87
+[24-Nov-2020 09:57:13] PHP Parse error:  syntax error, unexpected '<' in /home/piic6383/public_html/mahasiswa/datapelatihan.php on line 87
+[24-Nov-2020 09:57:24] PHP Parse error:  syntax error, unexpected '<' in /home/piic6383/public_html/mahasiswa/datapelatihan.php on line 84
+[24-Nov-2020 09:57:25] PHP Parse error:  syntax error, unexpected '<' in /home/piic6383/public_html/mahasiswa/datapelatihan.php on line 84
+[24-Nov-2020 09:57:25] PHP Parse error:  syntax error, unexpected '<' in /home/piic6383/public_html/mahasiswa/datapelatihan.php on line 84
+[24-Nov-2020 09:57:39] PHP Parse error:  syntax error, unexpected '<' in /home/piic6383/public_html/mahasiswa/datapelatihan.php on line 84
+[24-Nov-2020 09:57:40] PHP Parse error:  syntax error, unexpected '<' in /home/piic6383/public_html/mahasiswa/datapelatihan.php on line 84
+[24-Nov-2020 09:57:42] PHP Parse error:  syntax error, unexpected '<' in /home/piic6383/public_html/mahasiswa/datapelatihan.php on line 84
+[24-Nov-2020 09:57:55] PHP Parse error:  syntax error, unexpected '<' in /home/piic6383/public_html/mahasiswa/datapelatihan.php on line 84
+[24-Nov-2020 09:58:30] PHP Parse error:  syntax error, unexpected '<' in /home/piic6383/public_html/mahasiswa/datapelatihan.php on line 84
+[24-Nov-2020 09:58:37] PHP Parse error:  syntax error, unexpected '<' in /home/piic6383/public_html/mahasiswa/datapelatihan.php on line 84
+[24-Nov-2020 09:58:52] PHP Parse error:  syntax error, unexpected '<' in /home/piic6383/public_html/mahasiswa/datapelatihan.php on line 84
+[24-Nov-2020 09:59:12] PHP Parse error:  syntax error, unexpected '<' in /home/piic6383/public_html/mahasiswa/datapelatihan.php on line 84
+[24-Nov-2020 09:59:12] PHP Parse error:  syntax error, unexpected '<' in /home/piic6383/public_html/mahasiswa/datapelatihan.php on line 84
+[24-Nov-2020 09:59:13] PHP Parse error:  syntax error, unexpected '<' in /home/piic6383/public_html/mahasiswa/datapelatihan.php on line 84
+[24-Nov-2020 09:59:13] PHP Parse error:  syntax error, unexpected '<' in /home/piic6383/public_html/mahasiswa/datapelatihan.php on line 84
+[24-Nov-2020 09:59:13] PHP Parse error:  syntax error, unexpected '<' in /home/piic6383/public_html/mahasiswa/datapelatihan.php on line 84
+[24-Nov-2020 09:59:13] PHP Parse error:  syntax error, unexpected '<' in /home/piic6383/public_html/mahasiswa/datapelatihan.php on line 84
+[24-Nov-2020 10:00:04] PHP Parse error:  syntax error, unexpected '<' in /home/piic6383/public_html/mahasiswa/datapelatihan.php on line 84
+[24-Nov-2020 10:00:11] PHP Parse error:  syntax error, unexpected '<' in /home/piic6383/public_html/mahasiswa/datapelatihan.php on line 84
+[24-Nov-2020 10:02:02] PHP Parse error:  syntax error, unexpected '<' in /home/piic6383/public_html/mahasiswa/datapelatihan.php on line 61
+[24-Nov-2020 10:15:49] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasipengertian.php on line 6
+[24-Nov-2020 14:55:48] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 6
+[24-Nov-2020 18:48:17] PHP Warning:  unlink(img_mhs/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/piic6383/public_html/mahasiswa/profil_edit.php on line 117
+[30-Nov-2020 07:48:04] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatapelatihanlain.php on line 125
+[30-Nov-2020 07:48:19] PHP Warning:  unlink(bukti_berkas/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/piic6383/public_html/mahasiswa/editpelatihanlain.php on line 149
+[01-Dec-2020 16:41:18] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[01-Dec-2020 16:47:06] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[01-Dec-2020 16:53:13] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[01-Dec-2020 16:53:26] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[01-Dec-2020 16:54:15] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[01-Dec-2020 16:57:19] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapenghargaan.php on line 6
+[01-Dec-2020 16:57:19] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapenghargaan.php on line 13
+[01-Dec-2020 17:04:47] PHP Warning:  unlink(bukti_berkas/0) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/piic6383/public_html/mahasiswa/editpenghargaan.php on line 144
+[01-Dec-2020 17:08:07] PHP Warning:  unlink(bukti_berkas/0) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/piic6383/public_html/mahasiswa/editpenghargaan.php on line 144
+[01-Dec-2020 17:30:18] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapenghargaan.php on line 6
+[01-Dec-2020 17:30:18] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapenghargaan.php on line 13
+[02-Dec-2020 09:04:15] PHP Warning:  unlink(img_mhs/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/piic6383/public_html/mahasiswa/profil_edit.php on line 117
+[02-Dec-2020 09:24:08] PHP Warning:  unlink(img_mhs/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/piic6383/public_html/mahasiswa/profil_edit.php on line 117
+[02-Dec-2020 09:33:52] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[02-Dec-2020 09:35:03] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[02-Dec-2020 09:37:03] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[02-Dec-2020 09:39:36] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[02-Dec-2020 09:41:35] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[02-Dec-2020 09:45:10] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[02-Dec-2020 09:45:16] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[02-Dec-2020 09:45:36] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[02-Dec-2020 09:45:49] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[02-Dec-2020 09:45:52] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[02-Dec-2020 09:46:09] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[02-Dec-2020 09:46:46] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[02-Dec-2020 09:47:04] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[02-Dec-2020 09:48:51] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 6
+[02-Dec-2020 09:48:51] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 14
+[02-Dec-2020 09:49:49] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 6
+[02-Dec-2020 09:49:49] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 14
+[02-Dec-2020 09:52:18] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 6
+[02-Dec-2020 09:52:18] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 14
+[02-Dec-2020 09:53:18] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 6
+[02-Dec-2020 09:53:18] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 14
+[02-Dec-2020 09:54:54] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[02-Dec-2020 09:55:52] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasipengertian.php on line 6
+[02-Dec-2020 09:59:16] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasi.php on line 14
+[02-Dec-2020 09:59:22] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasi.php on line 14
+[02-Dec-2020 09:59:25] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasi.php on line 14
+[02-Dec-2020 10:01:03] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasi.php on line 14
+[02-Dec-2020 10:01:08] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasi.php on line 14
+[02-Dec-2020 10:02:22] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapengalamanmengajar.php on line 6
+[02-Dec-2020 10:02:22] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapengalamanmengajar.php on line 14
+[02-Dec-2020 10:03:21] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasi.php on line 14
+[02-Dec-2020 10:03:31] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasi.php on line 14
+[02-Dec-2020 10:04:26] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapengalamanpenelitian.php on line 6
+[02-Dec-2020 10:04:26] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapengalamanpenelitian.php on line 14
+[02-Dec-2020 10:06:13] PHP Warning:  unlink(bukti_berkas/0) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/piic6383/public_html/mahasiswa/editpengalamanpenelitian.php on line 145
+[02-Dec-2020 10:07:42] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasi.php on line 14
+[02-Dec-2020 10:07:45] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasi.php on line 14
+[02-Dec-2020 10:10:33] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatapengalamanpekerjaan.php on line 142
+[02-Dec-2020 10:11:34] PHP Warning:  unlink(bukti_berkas/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/piic6383/public_html/mahasiswa/editdatapengalamanpekerjaan.php on line 168
+[02-Dec-2020 10:13:59] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatamanajemenusaha.php on line 141
+[02-Dec-2020 10:14:34] PHP Warning:  unlink(bukti_berkas/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/piic6383/public_html/mahasiswa/editdatamanajemenusaha.php on line 169
+[02-Dec-2020 10:17:14] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatainovasikarya.php on line 136
+[02-Dec-2020 10:20:05] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatainovasikarya.php on line 136
+[02-Dec-2020 10:21:38] PHP Warning:  unlink(bukti_berkas/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/piic6383/public_html/mahasiswa/editdatainovasikarya.php on line 161
+[02-Dec-2020 10:29:53] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidataseminarkeinsinyuran.php on line 137
+[02-Dec-2020 10:31:06] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidataseminarkeinsinyuran.php on line 137
+[02-Dec-2020 10:32:15] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidataseminarkeinsinyuran.php on line 137
+[02-Dec-2020 10:34:08] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidataseminarkeinsinyuran.php on line 137
+[02-Dec-2020 10:39:21] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidataseminarkeinsinyuran.php on line 137
+[02-Dec-2020 11:08:45] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[02-Dec-2020 11:08:51] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[02-Dec-2020 11:11:16] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatabahasa.php on line 122
+[02-Dec-2020 11:11:51] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatabahasa.php on line 122
+[02-Dec-2020 11:13:22] PHP Warning:  unlink(bukti_berkas/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/piic6383/public_html/mahasiswa/editdatabahasa.php on line 147
+[02-Dec-2020 12:28:19] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[02-Dec-2020 12:32:48] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapenghargaan.php on line 6
+[02-Dec-2020 12:32:48] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapenghargaan.php on line 13
+[02-Dec-2020 12:34:11] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapenghargaan.php on line 6
+[02-Dec-2020 12:34:11] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapenghargaan.php on line 13
+[02-Dec-2020 12:59:52] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 6
+[02-Dec-2020 12:59:52] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 14
+[02-Dec-2020 13:09:21] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 6
+[02-Dec-2020 13:09:21] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 14
+[02-Dec-2020 13:09:57] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 6
+[02-Dec-2020 13:09:57] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 14
+[02-Dec-2020 13:12:45] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 6
+[02-Dec-2020 13:12:45] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 14
+[02-Dec-2020 13:13:23] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatapelatihanlain.php on line 125
+[02-Dec-2020 13:32:10] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[02-Dec-2020 13:32:52] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatapelatihanlain.php on line 125
+[02-Dec-2020 14:01:56] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[02-Dec-2020 14:02:09] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[02-Dec-2020 14:02:48] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[02-Dec-2020 14:16:20] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasi.php on line 14
+[02-Dec-2020 14:16:31] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasi.php on line 14
+[02-Dec-2020 14:16:40] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasi.php on line 14
+[02-Dec-2020 14:16:57] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasi.php on line 14
+[02-Dec-2020 14:17:04] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasi.php on line 14
+[02-Dec-2020 14:19:58] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasi.php on line 14
+[02-Dec-2020 14:20:53] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasi.php on line 14
+[02-Dec-2020 14:29:06] PHP Warning:  unlink(img_mhs/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/piic6383/public_html/mahasiswa/profil_edit.php on line 117
+[02-Dec-2020 14:43:29] PHP Warning:  unlink(img_mhs/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/piic6383/public_html/mahasiswa/profil_edit.php on line 117
+[02-Dec-2020 14:45:49] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[02-Dec-2020 14:54:22] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[02-Dec-2020 14:54:27] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[02-Dec-2020 14:54:51] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[02-Dec-2020 14:55:03] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[02-Dec-2020 14:55:12] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[02-Dec-2020 14:57:04] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[02-Dec-2020 15:05:36] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[02-Dec-2020 15:07:01] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatabahasa.php on line 122
+[02-Dec-2020 15:09:22] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[02-Dec-2020 15:09:38] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[02-Dec-2020 15:10:50] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[02-Dec-2020 15:12:52] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapenghargaan.php on line 6
+[02-Dec-2020 15:12:52] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapenghargaan.php on line 13
+[02-Dec-2020 15:14:25] PHP Warning:  unlink(bukti_berkas/0) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/piic6383/public_html/mahasiswa/editpenghargaan.php on line 144
+[02-Dec-2020 15:18:19] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapenghargaan.php on line 6
+[02-Dec-2020 15:18:19] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapenghargaan.php on line 13
+[02-Dec-2020 15:20:46] PHP Warning:  unlink(bukti_berkas/0) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/piic6383/public_html/mahasiswa/editpenghargaan.php on line 144
+[02-Dec-2020 15:21:52] PHP Warning:  unlink(bukti_berkas/2014) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/piic6383/public_html/mahasiswa/editpenghargaan.php on line 144
+[02-Dec-2020 15:22:38] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[02-Dec-2020 15:22:53] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[02-Dec-2020 15:28:46] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 6
+[02-Dec-2020 15:28:46] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 14
+[02-Dec-2020 15:29:38] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 6
+[02-Dec-2020 15:29:38] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 14
+[02-Dec-2020 16:26:01] PHP Warning:  unlink(img_mhs/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/piic6383/public_html/mahasiswa/profil_edit.php on line 117
+[02-Dec-2020 16:26:13] PHP Warning:  unlink(bukti_berkas/2013) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/piic6383/public_html/mahasiswa/editpenghargaan.php on line 144
+[02-Dec-2020 16:26:50] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[02-Dec-2020 16:27:00] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[02-Dec-2020 16:35:38] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[02-Dec-2020 16:35:38] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[02-Dec-2020 16:37:39] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[02-Dec-2020 16:38:18] PHP Warning:  unlink(img_mhs/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/piic6383/public_html/mahasiswa/profil_edit.php on line 117
+[02-Dec-2020 16:38:36] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[02-Dec-2020 16:41:21] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapenghargaan.php on line 6
+[02-Dec-2020 16:41:21] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapenghargaan.php on line 13
+[02-Dec-2020 16:42:48] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapenghargaan.php on line 6
+[02-Dec-2020 16:42:48] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapenghargaan.php on line 13
+[02-Dec-2020 16:43:25] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapenghargaan.php on line 6
+[02-Dec-2020 16:43:25] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapenghargaan.php on line 13
+[02-Dec-2020 16:43:47] PHP Warning:  unlink(bukti_berkas/0) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/piic6383/public_html/mahasiswa/hapuspenghargaan.php on line 12
+[02-Dec-2020 16:44:37] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapenghargaan.php on line 6
+[02-Dec-2020 16:44:37] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapenghargaan.php on line 13
+[02-Dec-2020 16:45:27] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapenghargaan.php on line 6
+[02-Dec-2020 16:45:27] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapenghargaan.php on line 13
+[02-Dec-2020 16:47:07] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapenghargaan.php on line 6
+[02-Dec-2020 16:47:07] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapenghargaan.php on line 13
+[02-Dec-2020 16:48:07] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapenghargaan.php on line 6
+[02-Dec-2020 16:48:07] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapenghargaan.php on line 13
+[02-Dec-2020 17:11:53] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasi.php on line 14
+[02-Dec-2020 17:11:58] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasi.php on line 14
+[02-Dec-2020 17:22:22] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 6
+[02-Dec-2020 17:22:22] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 14
+[02-Dec-2020 17:25:18] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 6
+[02-Dec-2020 17:25:18] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 14
+[02-Dec-2020 17:27:49] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasipengertian.php on line 6
+[02-Dec-2020 18:53:54] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasipengertian.php on line 6
+[02-Dec-2020 18:55:33] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatabahasa.php on line 122
+[02-Dec-2020 18:57:05] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatabahasa.php on line 122
+[02-Dec-2020 19:03:47] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatainovasikarya.php on line 136
+[02-Dec-2020 19:07:42] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatainovasikarya.php on line 136
+[02-Dec-2020 19:10:33] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidataseminarkeinsinyuran.php on line 137
+[02-Dec-2020 19:19:23] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatainovasiteknologi.php on line 119
+[02-Dec-2020 19:23:06] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatainovasimakalah.php on line 142
+[02-Dec-2020 19:24:32] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatainovasimakalah.php on line 142
+[02-Dec-2020 19:25:42] PHP Warning:  unlink(bukti_berkas/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/piic6383/public_html/mahasiswa/hapusdataseminarkeinsinyuran.php on line 12
+[02-Dec-2020 19:43:20] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidataseminarkeinsinyuran.php on line 137
+[02-Dec-2020 19:45:02] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidataseminarkeinsinyuran.php on line 137
+[02-Dec-2020 19:48:55] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidataseminarkeinsinyuran.php on line 137
+[02-Dec-2020 19:52:29] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidataseminarkeinsinyuran.php on line 137
+[02-Dec-2020 19:53:54] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidataseminarkeinsinyuran.php on line 137
+[02-Dec-2020 19:56:35] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidataseminarkeinsinyuran.php on line 137
+[02-Dec-2020 19:59:12] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidataseminarkeinsinyuran.php on line 137
+[02-Dec-2020 19:59:54] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidataseminarkeinsinyuran.php on line 137
+[02-Dec-2020 20:00:37] PHP Warning:  unlink(bukti_berkas/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/piic6383/public_html/mahasiswa/hapusdataseminarkeinsinyuran.php on line 12
+[02-Dec-2020 20:01:43] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidataseminarkeinsinyuran.php on line 137
+[02-Dec-2020 20:03:32] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidataseminarkeinsinyuran.php on line 137
+[02-Dec-2020 20:13:33] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[02-Dec-2020 20:16:48] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[02-Dec-2020 20:31:17] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[02-Dec-2020 20:38:24] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[02-Dec-2020 20:51:13] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[02-Dec-2020 20:51:35] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[02-Dec-2020 20:51:52] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[02-Dec-2020 20:52:40] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[02-Dec-2020 20:52:59] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[02-Dec-2020 20:53:35] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[02-Dec-2020 20:53:45] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[02-Dec-2020 20:54:11] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[02-Dec-2020 20:54:26] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[02-Dec-2020 21:04:47] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[02-Dec-2020 21:06:08] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasipengertian.php on line 6
+[02-Dec-2020 21:06:43] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasipengertian.php on line 6
+[02-Dec-2020 21:10:51] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasipengertian.php on line 6
+[02-Dec-2020 21:10:51] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasipengertian.php on line 6
+[03-Dec-2020 04:43:24] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[03-Dec-2020 04:48:26] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidataseminarkeinsinyuran.php on line 137
+[03-Dec-2020 04:56:53] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidataseminarkeinsinyuran.php on line 137
+[03-Dec-2020 05:10:00] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidataseminarkeinsinyuran.php on line 137
+[03-Dec-2020 05:35:02] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidataseminarkeinsinyuran.php on line 137
+[03-Dec-2020 05:35:53] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidataseminarkeinsinyuran.php on line 137
+[03-Dec-2020 05:36:07] PHP Warning:  unlink(bukti_berkas/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/piic6383/public_html/mahasiswa/hapusdataseminarkeinsinyuran.php on line 12
+[03-Dec-2020 05:47:28] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidataseminarkeinsinyuran.php on line 137
+[03-Dec-2020 05:49:21] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidataseminarkeinsinyuran.php on line 137
+[03-Dec-2020 05:52:45] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidataseminarkeinsinyuran.php on line 137
+[03-Dec-2020 05:55:03] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidataseminarkeinsinyuran.php on line 137
+[03-Dec-2020 06:03:22] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapengalamanmengajar.php on line 6
+[03-Dec-2020 06:03:22] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapengalamanmengajar.php on line 14
+[03-Dec-2020 12:47:35] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[03-Dec-2020 12:54:00] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 6
+[03-Dec-2020 12:54:00] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 14
+[03-Dec-2020 12:55:49] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 6
+[03-Dec-2020 12:55:49] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 14
+[03-Dec-2020 12:57:05] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 6
+[03-Dec-2020 12:57:05] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 14
+[03-Dec-2020 13:01:37] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatapelatihanlain.php on line 125
+[03-Dec-2020 13:10:49] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[03-Dec-2020 13:13:48] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[03-Dec-2020 13:15:37] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[03-Dec-2020 13:48:37] PHP Warning:  unlink(img_mhs/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/piic6383/public_html/mahasiswa/profil_edit.php on line 117
+[03-Dec-2020 14:17:07] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[03-Dec-2020 14:25:23] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[03-Dec-2020 14:27:52] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[03-Dec-2020 14:28:02] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[03-Dec-2020 14:28:41] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[03-Dec-2020 14:28:53] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[03-Dec-2020 14:29:46] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[03-Dec-2020 14:31:03] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[04-Dec-2020 08:13:14] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[04-Dec-2020 10:11:30] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 6
+[04-Dec-2020 10:11:30] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 14
+[04-Dec-2020 10:11:35] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 6
+[04-Dec-2020 10:11:35] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 14
+[04-Dec-2020 10:12:35] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatapelatihanlain.php on line 125
+[04-Dec-2020 10:14:56] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasi.php on line 14
+[04-Dec-2020 10:22:01] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasi.php on line 14
+[04-Dec-2020 10:24:58] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasi.php on line 14
+[04-Dec-2020 10:30:43] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasi.php on line 14
+[04-Dec-2020 10:30:50] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasi.php on line 14
+[04-Dec-2020 10:32:12] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidataseminarkeinsinyuran.php on line 137
+[04-Dec-2020 10:33:15] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidataseminarkeinsinyuran.php on line 137
+[04-Dec-2020 14:03:40] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[04-Dec-2020 14:04:49] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[04-Dec-2020 14:13:42] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[04-Dec-2020 14:24:13] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[04-Dec-2020 14:24:18] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[04-Dec-2020 14:44:45] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatapelatihanlain.php on line 125
+[04-Dec-2020 15:00:48] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasipengertian.php on line 6
+[04-Dec-2020 15:04:41] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasi.php on line 14
+[04-Dec-2020 15:06:37] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasi.php on line 14
+[04-Dec-2020 15:06:59] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasi.php on line 14
+[04-Dec-2020 15:07:51] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasi.php on line 14
+[04-Dec-2020 15:07:59] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasi.php on line 14
+[04-Dec-2020 15:08:06] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasi.php on line 14
+[04-Dec-2020 15:08:29] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasi.php on line 14
+[04-Dec-2020 15:25:18] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasi.php on line 14
+[04-Dec-2020 15:37:44] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[04-Dec-2020 15:39:21] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[04-Dec-2020 15:46:58] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasipengertian.php on line 6
+[04-Dec-2020 16:07:16] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasipengertian.php on line 6
+[04-Dec-2020 16:30:23] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasi.php on line 14
+[04-Dec-2020 16:31:14] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasi.php on line 14
+[04-Dec-2020 21:42:16] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatabahasa.php on line 122
+[04-Dec-2020 21:43:06] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatabahasa.php on line 122
+[04-Dec-2020 21:49:35] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[05-Dec-2020 06:25:57] PHP Warning:  unlink(img_mhs/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/piic6383/public_html/mahasiswa/profil_edit.php on line 117
+[05-Dec-2020 06:46:34] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[05-Dec-2020 06:49:43] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[05-Dec-2020 06:54:46] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[05-Dec-2020 06:57:21] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[05-Dec-2020 06:59:54] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 07:00:28] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 07:02:28] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 07:03:08] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 07:06:40] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 07:49:51] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 07:50:06] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 07:50:15] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 07:51:40] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 07:52:08] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 08:36:30] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[05-Dec-2020 08:37:59] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[05-Dec-2020 08:38:09] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 08:38:22] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 08:39:46] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 08:40:09] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[05-Dec-2020 08:44:02] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[05-Dec-2020 08:48:37] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 08:53:32] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 08:53:55] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasi.php on line 14
+[05-Dec-2020 08:57:50] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasi.php on line 14
+[05-Dec-2020 09:05:58] PHP Warning:  unlink(bukti_berkas/0) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/piic6383/public_html/mahasiswa/editpenghargaan.php on line 144
+[05-Dec-2020 09:06:09] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasi.php on line 14
+[05-Dec-2020 09:06:16] PHP Warning:  unlink(img_mhs/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/piic6383/public_html/mahasiswa/profil_edit.php on line 117
+[05-Dec-2020 09:08:22] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[05-Dec-2020 09:08:30] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[05-Dec-2020 09:12:10] PHP Warning:  unlink(img_mhs/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/piic6383/public_html/mahasiswa/profil_edit.php on line 117
+[05-Dec-2020 09:12:15] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasipengertian.php on line 6
+[05-Dec-2020 09:12:17] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[05-Dec-2020 09:15:15] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[05-Dec-2020 09:16:58] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasi.php on line 14
+[05-Dec-2020 09:22:33] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatabahasa.php on line 122
+[05-Dec-2020 09:24:10] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[05-Dec-2020 09:24:21] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 6
+[05-Dec-2020 09:24:21] PHP Notice:  Undefined index:  nokta in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 7
+[05-Dec-2020 09:24:21] PHP Notice:  Undefined index:  nama_lengkap in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 8
+[05-Dec-2020 09:24:21] PHP Notice:  Undefined index:  nama_pelatihan in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 9
+[05-Dec-2020 09:24:21] PHP Notice:  Undefined index:  tahun in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 10
+[05-Dec-2020 09:24:21] PHP Notice:  Undefined index:  jumlah in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 11
+[05-Dec-2020 09:24:21] PHP Notice:  Undefined index:  uraian in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 12
+[05-Dec-2020 09:24:21] PHP Notice:  Undefined index:  kompetensi in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 13
+[05-Dec-2020 09:24:21] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 14
+[05-Dec-2020 09:25:09] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 6
+[05-Dec-2020 09:25:09] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 14
+[05-Dec-2020 09:25:24] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasi.php on line 14
+[05-Dec-2020 09:26:31] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasi.php on line 14
+[05-Dec-2020 09:27:13] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[05-Dec-2020 09:27:25] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 6
+[05-Dec-2020 09:27:25] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 14
+[05-Dec-2020 09:27:32] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 6
+[05-Dec-2020 09:27:32] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 14
+[05-Dec-2020 09:27:50] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 6
+[05-Dec-2020 09:27:50] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 14
+[05-Dec-2020 09:29:10] PHP Warning:  unlink(img_mhs/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/piic6383/public_html/mahasiswa/profil_edit.php on line 117
+[05-Dec-2020 09:31:38] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[05-Dec-2020 09:32:29] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[05-Dec-2020 09:32:37] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatapelatihanlain.php on line 125
+[05-Dec-2020 09:32:42] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[05-Dec-2020 09:32:49] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasi.php on line 14
+[05-Dec-2020 09:33:34] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[05-Dec-2020 09:33:58] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 09:34:49] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 09:36:46] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 09:36:52] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 09:36:55] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 09:37:03] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 09:38:02] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 09:38:50] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 09:38:55] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 09:39:28] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasipengertian.php on line 6
+[05-Dec-2020 09:41:16] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[05-Dec-2020 09:41:16] PHP Notice:  Undefined index:  nokta in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 7
+[05-Dec-2020 09:41:16] PHP Notice:  Undefined index:  nama_lengkap in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 8
+[05-Dec-2020 09:41:16] PHP Notice:  Undefined index:  tingkatpendidikan in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 9
+[05-Dec-2020 09:41:16] PHP Notice:  Undefined index:  perguruantinggi in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 10
+[05-Dec-2020 09:41:16] PHP Notice:  Undefined index:  fakultas in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 11
+[05-Dec-2020 09:41:16] PHP Notice:  Undefined index:  jurusan in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 12
+[05-Dec-2020 09:41:16] PHP Notice:  Undefined index:  kota in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 13
+[05-Dec-2020 09:41:16] PHP Notice:  Undefined index:  negara in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 14
+[05-Dec-2020 09:41:16] PHP Notice:  Undefined index:  tahunlulus in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 15
+[05-Dec-2020 09:41:16] PHP Notice:  Undefined index:  gelar in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 16
+[05-Dec-2020 09:41:16] PHP Notice:  Undefined index:  judulta in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 17
+[05-Dec-2020 09:41:16] PHP Notice:  Undefined index:  deskripsita in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 18
+[05-Dec-2020 09:42:38] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatapelatihanlain.php on line 125
+[05-Dec-2020 09:42:59] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 09:43:12] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 09:43:24] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 09:45:25] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatapelatihanlain.php on line 125
+[05-Dec-2020 09:45:29] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 09:45:33] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 09:45:36] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 09:45:38] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 09:46:06] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 09:47:09] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 09:47:11] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[05-Dec-2020 09:47:59] PHP Warning:  unlink(img_mhs/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/piic6383/public_html/mahasiswa/profil_edit.php on line 117
+[05-Dec-2020 09:48:49] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 09:49:30] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 09:50:37] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[05-Dec-2020 09:51:04] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 09:51:10] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 09:52:25] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 09:53:18] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatapelatihanlain.php on line 125
+[05-Dec-2020 09:54:15] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 09:54:20] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 09:54:39] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 09:55:08] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatapelatihanlain.php on line 125
+[05-Dec-2020 09:55:55] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 09:56:06] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 09:56:21] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 6
+[05-Dec-2020 09:56:21] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 14
+[05-Dec-2020 09:56:32] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 09:58:48] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[05-Dec-2020 09:59:29] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[05-Dec-2020 09:59:48] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 6
+[05-Dec-2020 09:59:48] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 14
+[05-Dec-2020 10:00:25] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 10:00:48] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 10:00:54] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 10:01:26] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 10:01:58] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 10:05:11] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 6
+[05-Dec-2020 10:05:11] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 14
+[05-Dec-2020 10:06:06] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 6
+[05-Dec-2020 10:06:06] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 14
+[05-Dec-2020 10:07:21] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatapelatihanlain.php on line 125
+[05-Dec-2020 10:08:16] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatapelatihanlain.php on line 125
+[05-Dec-2020 10:10:24] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[05-Dec-2020 10:12:44] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 10:12:49] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 10:13:18] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasipengertian.php on line 6
+[05-Dec-2020 10:13:57] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 10:14:14] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 10:14:21] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 10:20:33] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapenghargaan.php on line 6
+[05-Dec-2020 10:20:33] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapenghargaan.php on line 13
+[05-Dec-2020 10:20:57] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 10:27:20] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[05-Dec-2020 10:28:49] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[05-Dec-2020 10:30:02] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[05-Dec-2020 10:31:19] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 10:31:23] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 10:31:25] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 10:53:01] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[05-Dec-2020 10:53:23] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[05-Dec-2020 11:18:59] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 12:01:43] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 12:02:58] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 12:03:11] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 12:04:08] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 6
+[05-Dec-2020 12:04:08] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 14
+[05-Dec-2020 12:04:26] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatabahasa.php on line 122
+[05-Dec-2020 12:04:44] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatabahasa.php on line 122
+[05-Dec-2020 12:08:42] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 6
+[05-Dec-2020 12:08:42] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 14
+[05-Dec-2020 12:09:42] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatapelatihanlain.php on line 125
+[05-Dec-2020 12:22:05] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapengalamanmengajar.php on line 6
+[05-Dec-2020 12:22:05] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapengalamanmengajar.php on line 14
+[05-Dec-2020 12:29:26] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapengalamanmengajar.php on line 6
+[05-Dec-2020 12:29:26] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapengalamanmengajar.php on line 14
+[05-Dec-2020 12:40:37] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapengalamanmengajar.php on line 6
+[05-Dec-2020 12:40:37] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapengalamanmengajar.php on line 14
+[05-Dec-2020 12:41:28] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapengalamanmengajar.php on line 6
+[05-Dec-2020 12:41:28] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapengalamanmengajar.php on line 14
+[05-Dec-2020 12:42:00] PHP Warning:  unlink(bukti_berkas/0) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/piic6383/public_html/mahasiswa/hapuspengalamanmengajar.php on line 12
+[05-Dec-2020 12:44:35] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapengalamanmengajar.php on line 6
+[05-Dec-2020 12:44:35] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapengalamanmengajar.php on line 14
+[05-Dec-2020 12:48:42] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapengalamanmengajar.php on line 6
+[05-Dec-2020 12:48:42] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapengalamanmengajar.php on line 14
+[05-Dec-2020 12:50:15] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapengalamanmengajar.php on line 6
+[05-Dec-2020 12:50:15] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapengalamanmengajar.php on line 14
+[05-Dec-2020 13:00:56] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapengalamanmengajar.php on line 6
+[05-Dec-2020 13:00:56] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapengalamanmengajar.php on line 14
+[05-Dec-2020 13:02:51] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapengalamanmengajar.php on line 6
+[05-Dec-2020 13:02:51] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapengalamanmengajar.php on line 14
+[05-Dec-2020 13:06:41] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasipengertian.php on line 6
+[05-Dec-2020 13:16:58] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidataseminarkeinsinyuran.php on line 137
+[05-Dec-2020 13:25:04] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasi.php on line 14
+[05-Dec-2020 13:25:16] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasi.php on line 14
+[05-Dec-2020 13:27:01] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 6
+[05-Dec-2020 13:27:01] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 14
+[05-Dec-2020 13:27:06] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 6
+[05-Dec-2020 13:27:06] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 14
+[05-Dec-2020 13:31:08] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapengalamanpenelitian.php on line 6
+[05-Dec-2020 13:31:08] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapengalamanpenelitian.php on line 14
+[05-Dec-2020 13:33:18] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapengalamanpenelitian.php on line 6
+[05-Dec-2020 13:33:18] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapengalamanpenelitian.php on line 14
+[05-Dec-2020 13:35:39] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapengalamanpenelitian.php on line 6
+[05-Dec-2020 13:35:39] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapengalamanpenelitian.php on line 14
+[05-Dec-2020 13:37:14] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapengalamanpenelitian.php on line 6
+[05-Dec-2020 13:37:14] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapengalamanpenelitian.php on line 14
+[05-Dec-2020 13:38:46] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapengalamanpenelitian.php on line 6
+[05-Dec-2020 13:38:46] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapengalamanpenelitian.php on line 14
+[05-Dec-2020 13:40:11] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapengalamanpenelitian.php on line 6
+[05-Dec-2020 13:40:11] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapengalamanpenelitian.php on line 14
+[05-Dec-2020 13:41:45] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapengalamanpenelitian.php on line 6
+[05-Dec-2020 13:41:45] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapengalamanpenelitian.php on line 14
+[05-Dec-2020 13:41:49] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapengalamanpenelitian.php on line 6
+[05-Dec-2020 13:41:49] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapengalamanpenelitian.php on line 14
+[05-Dec-2020 13:42:25] PHP Warning:  unlink(bukti_berkas/0) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/piic6383/public_html/mahasiswa/hapuspengalamanpenelitian.php on line 12
+[05-Dec-2020 13:42:57] PHP Warning:  unlink(bukti_berkas/0) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/piic6383/public_html/mahasiswa/hapuspengalamanpenelitian.php on line 12
+[05-Dec-2020 13:44:25] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapengalamanpenelitian.php on line 6
+[05-Dec-2020 13:44:25] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapengalamanpenelitian.php on line 14
+[05-Dec-2020 13:46:09] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapengalamanpenelitian.php on line 6
+[05-Dec-2020 13:46:09] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapengalamanpenelitian.php on line 14
+[05-Dec-2020 13:51:37] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapengalamanpenelitian.php on line 6
+[05-Dec-2020 13:51:37] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapengalamanpenelitian.php on line 14
+[05-Dec-2020 13:56:06] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapengalamanpenelitian.php on line 6
+[05-Dec-2020 13:56:06] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapengalamanpenelitian.php on line 14
+[05-Dec-2020 13:57:30] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapengalamanpenelitian.php on line 6
+[05-Dec-2020 13:57:30] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapengalamanpenelitian.php on line 14
+[05-Dec-2020 14:04:29] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatapengalamanpekerjaan.php on line 142
+[05-Dec-2020 14:04:54] PHP Warning:  unlink(bukti_berkas/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/piic6383/public_html/mahasiswa/hapusdatapengalamanpekerjaan.php on line 13
+[05-Dec-2020 14:06:27] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatapengalamanpekerjaan.php on line 142
+[05-Dec-2020 14:07:51] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatapengalamanpekerjaan.php on line 142
+[05-Dec-2020 14:08:18] PHP Warning:  unlink(bukti_berkas/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/piic6383/public_html/mahasiswa/hapusdatapengalamanpekerjaan.php on line 13
+[05-Dec-2020 14:10:29] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatapengalamanpekerjaan.php on line 142
+[05-Dec-2020 14:13:33] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatapengalamanpekerjaan.php on line 142
+[05-Dec-2020 14:16:02] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatapengalamanpekerjaan.php on line 142
+[05-Dec-2020 14:17:35] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatapengalamanpekerjaan.php on line 142
+[05-Dec-2020 14:18:49] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatapengalamanpekerjaan.php on line 142
+[05-Dec-2020 14:21:03] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatapengalamanpekerjaan.php on line 142
+[05-Dec-2020 14:25:28] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatapengalamanpekerjaan.php on line 142
+[05-Dec-2020 14:26:34] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatapengalamanpekerjaan.php on line 142
+[05-Dec-2020 14:26:52] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatapengalamanpekerjaan.php on line 142
+[05-Dec-2020 14:28:04] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatapengalamanpekerjaan.php on line 142
+[05-Dec-2020 14:28:56] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatapengalamanpekerjaan.php on line 142
+[05-Dec-2020 14:31:29] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatapengalamanpekerjaan.php on line 142
+[05-Dec-2020 14:36:15] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatamanajemenusaha.php on line 141
+[05-Dec-2020 14:36:53] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatamanajemenusaha.php on line 141
+[05-Dec-2020 14:38:00] PHP Warning:  unlink(bukti_berkas/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/piic6383/public_html/mahasiswa/hapusdatamanajemenusaha.php on line 13
+[05-Dec-2020 14:39:58] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatamanajemenusaha.php on line 141
+[05-Dec-2020 14:43:11] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatamanajemenusaha.php on line 141
+[05-Dec-2020 14:45:07] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatamanajemenusaha.php on line 141
+[05-Dec-2020 14:47:12] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatamanajemenusaha.php on line 141
+[05-Dec-2020 14:52:23] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatamanajemenusaha.php on line 141
+[05-Dec-2020 14:54:41] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatamanajemenusaha.php on line 141
+[05-Dec-2020 15:05:44] PHP Warning:  unlink(bukti_berkas/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/piic6383/public_html/mahasiswa/hapusdatamanajemenusaha.php on line 13
+[05-Dec-2020 15:07:26] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatamanajemenusaha.php on line 141
+[05-Dec-2020 15:09:16] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatamanajemenusaha.php on line 141
+[05-Dec-2020 15:12:19] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatamanajemenusaha.php on line 141
+[05-Dec-2020 15:14:55] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatamanajemenusaha.php on line 141
+[05-Dec-2020 15:17:02] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatamanajemenusaha.php on line 141
+[05-Dec-2020 15:17:07] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatamanajemenusaha.php on line 141
+[05-Dec-2020 15:17:25] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatamanajemenusaha.php on line 141
+[05-Dec-2020 15:17:49] PHP Warning:  unlink(bukti_berkas/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/piic6383/public_html/mahasiswa/hapusdatamanajemenusaha.php on line 13
+[05-Dec-2020 15:18:50] PHP Warning:  unlink(bukti_berkas/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/piic6383/public_html/mahasiswa/hapusdatamanajemenusaha.php on line 13
+[05-Dec-2020 15:19:28] PHP Warning:  unlink(bukti_berkas/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/piic6383/public_html/mahasiswa/hapusdatamanajemenusaha.php on line 13
+[05-Dec-2020 15:22:00] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatamanajemenusaha.php on line 141
+[05-Dec-2020 15:22:59] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatamanajemenusaha.php on line 141
+[05-Dec-2020 15:23:55] PHP Warning:  unlink(bukti_berkas/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/piic6383/public_html/mahasiswa/hapusdatamanajemenusaha.php on line 13
+[05-Dec-2020 15:27:09] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatamanajemenusaha.php on line 141
+[05-Dec-2020 15:29:25] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatamanajemenusaha.php on line 141
+[05-Dec-2020 15:30:52] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatamanajemenusaha.php on line 141
+[05-Dec-2020 15:32:48] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatamanajemenusaha.php on line 141
+[05-Dec-2020 15:33:18] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatamanajemenusaha.php on line 141
+[05-Dec-2020 15:34:29] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatamanajemenusaha.php on line 141
+[05-Dec-2020 15:35:40] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatamanajemenusaha.php on line 141
+[05-Dec-2020 15:37:01] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatamanajemenusaha.php on line 141
+[05-Dec-2020 15:38:05] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatamanajemenusaha.php on line 141
+[05-Dec-2020 15:38:59] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatamanajemenusaha.php on line 141
+[05-Dec-2020 15:40:27] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatamanajemenusaha.php on line 141
+[05-Dec-2020 15:41:36] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatamanajemenusaha.php on line 141
+[05-Dec-2020 15:42:33] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatamanajemenusaha.php on line 141
+[05-Dec-2020 15:43:34] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatamanajemenusaha.php on line 141
+[05-Dec-2020 15:45:00] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatamanajemenusaha.php on line 141
+[05-Dec-2020 15:46:02] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatamanajemenusaha.php on line 141
+[05-Dec-2020 15:47:07] PHP Warning:  unlink(bukti_berkas/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/piic6383/public_html/mahasiswa/hapusdatamanajemenusaha.php on line 13
+[05-Dec-2020 15:47:28] PHP Warning:  unlink(bukti_berkas/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/piic6383/public_html/mahasiswa/hapusdatamanajemenusaha.php on line 13
+[05-Dec-2020 15:48:49] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatamanajemenusaha.php on line 141
+[05-Dec-2020 15:50:13] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatamanajemenusaha.php on line 141
+[05-Dec-2020 15:50:44] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatamanajemenusaha.php on line 141
+[05-Dec-2020 15:50:53] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatamanajemenusaha.php on line 141
+[05-Dec-2020 15:53:26] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatamanajemenusaha.php on line 141
+[05-Dec-2020 15:54:50] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatamanajemenusaha.php on line 141
+[05-Dec-2020 15:57:11] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatamanajemenusaha.php on line 141
+[05-Dec-2020 16:49:23] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasi.php on line 14
+[05-Dec-2020 16:49:25] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasi.php on line 14
+[05-Dec-2020 16:55:01] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[05-Dec-2020 21:00:01] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[05-Dec-2020 21:02:02] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 6
+[05-Dec-2020 21:02:02] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 14
+[05-Dec-2020 21:02:44] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 6
+[05-Dec-2020 21:02:44] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 14
+[05-Dec-2020 21:08:39] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasipengertian.php on line 6
+[05-Dec-2020 21:13:25] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasi.php on line 14
+[06-Dec-2020 20:09:36] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[06-Dec-2020 20:24:29] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 6
+[06-Dec-2020 20:24:29] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[06-Dec-2020 20:29:13] PHP Parse error:  syntax error, unexpected '[' in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasi.php on line 14
+[06-Dec-2020 20:30:07] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasi.php on line 6
+[06-Dec-2020 20:30:07] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasi.php on line 14
+[06-Dec-2020 20:31:03] PHP Warning:  unlink(img_mhs/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/piic6383/public_html/mahasiswa/profil_edit.php on line 117
+[06-Dec-2020 23:48:52] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 6
+[06-Dec-2020 23:48:52] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[07-Dec-2020 09:02:27] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 6
+[07-Dec-2020 09:02:27] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[07-Dec-2020 09:03:48] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 6
+[07-Dec-2020 09:03:48] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 14
+[07-Dec-2020 09:18:34] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasipengertian.php on line 6
+[07-Dec-2020 10:13:49] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[07-Dec-2020 10:38:18] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapendidikan.php on line 6
+[07-Dec-2020 10:39:17] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 6
+[07-Dec-2020 10:39:17] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[07-Dec-2020 17:22:01] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 6
+[07-Dec-2020 17:22:01] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[07-Dec-2020 17:29:33] PHP Warning:  unlink(bukti_berkas/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/piic6383/public_html/mahasiswa/editorganisasi.php on line 139
+[07-Dec-2020 17:32:40] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 6
+[07-Dec-2020 17:32:40] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[07-Dec-2020 17:33:48] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 6
+[07-Dec-2020 17:33:48] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdataorganisasi.php on line 13
+[07-Dec-2020 17:34:52] PHP Warning:  unlink(bukti_berkas/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/piic6383/public_html/mahasiswa/editorganisasi.php on line 139
+[07-Dec-2020 17:48:01] PHP Warning:  unlink(bukti_berkas/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/piic6383/public_html/mahasiswa/editorganisasi.php on line 139
+[07-Dec-2020 18:06:53] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 6
+[07-Dec-2020 18:06:53] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 14
+[07-Dec-2020 18:09:44] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatapelatihanlain.php on line 125
+[07-Dec-2020 18:11:29] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasipengertian.php on line 6
+[07-Dec-2020 18:33:15] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasipengertian.php on line 6
+[07-Dec-2020 18:37:48] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasipengertian.php on line 6
+[07-Dec-2020 18:38:45] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasipengertian.php on line 6
+[07-Dec-2020 18:39:18] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasipengertian.php on line 6
+[07-Dec-2020 18:40:02] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatakualifikasipengertian.php on line 6
+[07-Dec-2020 19:44:26] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatainovasikarya.php on line 136
+[07-Dec-2020 19:44:28] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidatainovasikarya.php on line 136
+[07-Dec-2020 19:46:07] PHP Warning:  unlink(bukti_berkas/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/piic6383/public_html/mahasiswa/editdatainovasikarya.php on line 161
+[07-Dec-2020 19:50:43] PHP Warning:  unlink(bukti_berkas/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/piic6383/public_html/mahasiswa/editdatainovasikarya.php on line 161
+[07-Dec-2020 20:06:52] PHP Notice:  Undefined variable: data in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 6
+[07-Dec-2020 20:06:52] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/tambahdatapelatihan.php on line 14
+[07-Dec-2020 20:14:19] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidataseminarkeinsinyuran.php on line 137
+[07-Dec-2020 20:19:06] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidataseminarkeinsinyuran.php on line 137
+[07-Dec-2020 20:21:08] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidataseminarkeinsinyuran.php on line 137
+[07-Dec-2020 20:28:29] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidataseminarkeinsinyuran.php on line 137
+[07-Dec-2020 20:29:26] PHP Warning:  unlink(bukti_berkas/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/piic6383/public_html/mahasiswa/editdataseminarkeinsinyuran.php on line 161
+[07-Dec-2020 20:43:31] PHP Notice:  Undefined index:  bukti_berkas in /home/piic6383/public_html/mahasiswa/isidataseminarkeinsinyuran.php on line 137
+[07-Dec-2020 20:46:55] PHP Warning:  unlink(bukti_berkas/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/piic6383/public_html/mahasiswa/editdataseminarkeinsinyuran.php on line 161
+[07-Dec-2020 20:53:00] PHP Warning:  unlink(bukti_berkas/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/piic6383/public_html/mahasiswa/editdataseminarkeinsinyuran.php on line 161
+[07-Dec-2020 21:08:58] PHP Warning:  unlink(bukti_berkas/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/piic6383/public_html/mahasiswa/editdataseminarkeinsinyuran.php on line 161
+[07-Dec-2020 21:11:44] PHP Warning:  unlink(bukti_berkas/) [<a href='function.unlink'>function.unlink</a>]: Is a directory in /home/piic6383/public_html/mahasiswa/editdataseminarkeinsinyuran.php on line 161
+[07-Dec-2020 21:21:51] PHP Warning:  unlink(bukti_berkas/SK_ DPD BANTEN 2018-2023.pdf) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in /home/piic6383/public_html/mahasiswa/editorganisasi.php on line 139

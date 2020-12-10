@@ -1,0 +1,175 @@
+[24-Nov-2020 03:53:48] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/piic6383/public_html/dosen/koneksi.php on line 7
+[24-Nov-2020 03:53:50] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/piic6383/public_html/dosen/koneksi.php on line 7
+[24-Nov-2020 03:53:51] PHP Warning:  mysqli_connect() [<a href='function.mysqli-connect'>function.mysqli-connect</a>]: (28000/1045): Access denied for user 'root'@'localhost' (using password: NO) in /home/piic6383/public_html/dosen/koneksi.php on line 7
+[24-Nov-2020 03:54:48] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/soal.php on line 58
+[24-Nov-2020 04:50:22] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/soal.php on line 58
+[24-Nov-2020 04:51:55] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/soal.php on line 58
+[24-Nov-2020 05:06:17] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/soal.php on line 58
+[24-Nov-2020 05:07:16] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/soal.php on line 58
+[24-Nov-2020 05:07:19] PHP Notice:  Undefined index:  matkul in /home/piic6383/public_html/dosen/profil.php on line 11
+[24-Nov-2020 14:06:35] PHP Parse error:  syntax error, unexpected '>', expecting T_STRING or T_VARIABLE or '$' in /home/piic6383/public_html/dosen/hasil.php on line 84
+[24-Nov-2020 14:06:58] PHP Parse error:  syntax error, unexpected '>', expecting T_STRING or T_VARIABLE or '$' in /home/piic6383/public_html/dosen/hasil.php on line 84
+[24-Nov-2020 14:22:54] PHP Notice:  Undefined index:  matkul in /home/piic6383/public_html/dosen/profil.php on line 11
+[24-Nov-2020 14:23:21] PHP Notice:  Undefined index:  matkul in /home/piic6383/public_html/dosen/profil.php on line 11
+[24-Nov-2020 14:23:22] PHP Notice:  Undefined index:  matkul in /home/piic6383/public_html/dosen/profil.php on line 11
+[24-Nov-2020 14:23:22] PHP Notice:  Undefined index:  matkul in /home/piic6383/public_html/dosen/profil.php on line 11
+[24-Nov-2020 14:23:22] PHP Notice:  Undefined index:  matkul in /home/piic6383/public_html/dosen/profil.php on line 11
+[24-Nov-2020 14:23:38] PHP Notice:  Undefined index:  matkul in /home/piic6383/public_html/dosen/profil.php on line 11
+[24-Nov-2020 14:24:04] PHP Notice:  Undefined index:  matkul in /home/piic6383/public_html/dosen/profil.php on line 11
+[24-Nov-2020 18:58:07] PHP Notice:  Undefined index:  matkul in /home/piic6383/public_html/dosen/profil.php on line 11
+[24-Nov-2020 18:58:27] PHP Notice:  Undefined index:  matkul in /home/piic6383/public_html/dosen/profil.php on line 11
+[24-Nov-2020 18:58:43] PHP Notice:  Undefined index:  matkul in /home/piic6383/public_html/dosen/profil.php on line 11
+[26-Nov-2020 14:55:44] PHP Notice:  Undefined index:  matkul in /home/piic6383/public_html/dosen/profil.php on line 11
+[27-Nov-2020 22:40:49] PHP Notice:  Undefined index:  matkul in /home/piic6383/public_html/dosen/profil.php on line 11
+[01-Dec-2020 12:04:17] PHP Notice:  Undefined index:  matkul in /home/piic6383/public_html/dosen/profil.php on line 11
+[01-Dec-2020 19:57:27] PHP Notice:  Undefined index:  matkul in /home/piic6383/public_html/dosen/profil.php on line 11
+[01-Dec-2020 19:57:59] PHP Notice:  Undefined index:  matkul in /home/piic6383/public_html/dosen/profil.php on line 11
+[02-Dec-2020 07:05:30] PHP Notice:  Undefined index:  matkul in /home/piic6383/public_html/dosen/profil.php on line 11
+[04-Dec-2020 06:34:22] PHP Notice:  Undefined index:  matkul in /home/piic6383/public_html/dosen/profil.php on line 11
+[04-Dec-2020 06:34:38] PHP Notice:  Undefined index:  matkul in /home/piic6383/public_html/dosen/profil.php on line 11
+[04-Dec-2020 06:34:39] PHP Notice:  Undefined index:  matkul in /home/piic6383/public_html/dosen/profil.php on line 11
+[04-Dec-2020 06:34:52] PHP Notice:  Undefined index:  matkul in /home/piic6383/public_html/dosen/profil.php on line 11
+[04-Dec-2020 06:38:10] PHP Notice:  Undefined index:  matkul in /home/piic6383/public_html/dosen/profil.php on line 11
+[04-Dec-2020 06:38:10] PHP Notice:  Undefined index:  matkul in /home/piic6383/public_html/dosen/profil.php on line 11
+[04-Dec-2020 13:53:28] PHP Notice:  Undefined index:  matkul in /home/piic6383/public_html/dosen/profil.php on line 11
+[04-Dec-2020 13:53:36] PHP Notice:  Undefined index:  matkul in /home/piic6383/public_html/dosen/profil_edit.php on line 16
+[04-Dec-2020 13:53:44] PHP Notice:  Undefined index:  matkul in /home/piic6383/public_html/dosen/profil_edit.php on line 16
+[04-Dec-2020 14:08:03] PHP Notice:  Undefined index:  matkul in /home/piic6383/public_html/dosen/profil.php on line 11
+[05-Dec-2020 05:30:17] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 277
+[05-Dec-2020 05:30:17] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 471
+[05-Dec-2020 05:30:17] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 680
+[05-Dec-2020 05:30:17] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 1029
+[05-Dec-2020 05:30:17] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 1228
+[05-Dec-2020 05:30:17] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 1576
+[05-Dec-2020 05:30:17] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 2066
+[05-Dec-2020 05:30:17] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 2464
+[05-Dec-2020 05:30:17] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 2853
+[05-Dec-2020 05:30:17] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 3222
+[05-Dec-2020 05:30:17] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 3583
+[05-Dec-2020 05:30:17] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 3861
+[05-Dec-2020 05:30:17] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 4129
+[05-Dec-2020 05:30:17] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 4389
+[05-Dec-2020 05:30:17] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 4647
+[05-Dec-2020 05:30:38] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 277
+[05-Dec-2020 05:30:38] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 471
+[05-Dec-2020 05:30:38] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 680
+[05-Dec-2020 05:30:38] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 1029
+[05-Dec-2020 05:30:38] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 1228
+[05-Dec-2020 05:30:38] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 1576
+[05-Dec-2020 05:30:38] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 2066
+[05-Dec-2020 05:30:38] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 2464
+[05-Dec-2020 05:30:38] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 2853
+[05-Dec-2020 05:30:38] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 3222
+[05-Dec-2020 05:30:38] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 3583
+[05-Dec-2020 05:30:38] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 3861
+[05-Dec-2020 05:30:38] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 4129
+[05-Dec-2020 05:30:38] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 4389
+[05-Dec-2020 05:30:38] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 4647
+[05-Dec-2020 05:31:11] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 277
+[05-Dec-2020 05:31:11] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 471
+[05-Dec-2020 05:31:11] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 680
+[05-Dec-2020 05:31:11] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 1029
+[05-Dec-2020 05:31:11] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 1228
+[05-Dec-2020 05:31:11] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 1576
+[05-Dec-2020 05:31:11] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 2066
+[05-Dec-2020 05:31:11] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 2464
+[05-Dec-2020 05:31:11] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 2853
+[05-Dec-2020 05:31:11] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 3222
+[05-Dec-2020 05:31:11] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 3583
+[05-Dec-2020 05:31:11] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 3861
+[05-Dec-2020 05:31:11] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 4129
+[05-Dec-2020 05:31:11] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 4389
+[05-Dec-2020 05:31:11] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 4647
+[05-Dec-2020 05:31:15] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 277
+[05-Dec-2020 05:31:15] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 471
+[05-Dec-2020 05:31:15] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 680
+[05-Dec-2020 05:31:15] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 1029
+[05-Dec-2020 05:31:15] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 1228
+[05-Dec-2020 05:31:15] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 1576
+[05-Dec-2020 05:31:15] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 2066
+[05-Dec-2020 05:31:15] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 2464
+[05-Dec-2020 05:31:15] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 2853
+[05-Dec-2020 05:31:15] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 3222
+[05-Dec-2020 05:31:15] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 3583
+[05-Dec-2020 05:31:15] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 3861
+[05-Dec-2020 05:31:15] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 4129
+[05-Dec-2020 05:31:15] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 4389
+[05-Dec-2020 05:31:15] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 4647
+[05-Dec-2020 05:31:16] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 277
+[05-Dec-2020 05:31:16] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 471
+[05-Dec-2020 05:31:16] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 680
+[05-Dec-2020 05:31:16] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 1029
+[05-Dec-2020 05:31:16] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 1228
+[05-Dec-2020 05:31:16] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 1576
+[05-Dec-2020 05:31:16] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 2066
+[05-Dec-2020 05:31:16] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 2464
+[05-Dec-2020 05:31:16] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 2853
+[05-Dec-2020 05:31:16] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 3222
+[05-Dec-2020 05:31:16] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 3583
+[05-Dec-2020 05:31:16] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 3861
+[05-Dec-2020 05:31:16] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 4129
+[05-Dec-2020 05:31:16] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 4389
+[05-Dec-2020 05:31:16] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 4647
+[05-Dec-2020 05:31:17] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 277
+[05-Dec-2020 05:31:17] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 471
+[05-Dec-2020 05:31:17] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 680
+[05-Dec-2020 05:31:17] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 1029
+[05-Dec-2020 05:31:17] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 1228
+[05-Dec-2020 05:31:17] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 1576
+[05-Dec-2020 05:31:17] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 2066
+[05-Dec-2020 05:31:17] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 2464
+[05-Dec-2020 05:31:17] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 2853
+[05-Dec-2020 05:31:17] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 3222
+[05-Dec-2020 05:31:17] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 3583
+[05-Dec-2020 05:31:17] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 3861
+[05-Dec-2020 05:31:17] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 4129
+[05-Dec-2020 05:31:17] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 4389
+[05-Dec-2020 05:31:17] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 4647
+[05-Dec-2020 05:31:18] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 277
+[05-Dec-2020 05:31:18] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 471
+[05-Dec-2020 05:31:18] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 680
+[05-Dec-2020 05:31:18] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 1029
+[05-Dec-2020 05:31:18] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 1228
+[05-Dec-2020 05:31:18] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 1576
+[05-Dec-2020 05:31:18] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 2066
+[05-Dec-2020 05:31:18] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 2464
+[05-Dec-2020 05:31:18] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 2853
+[05-Dec-2020 05:31:18] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 3222
+[05-Dec-2020 05:31:18] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 3583
+[05-Dec-2020 05:31:18] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 3861
+[05-Dec-2020 05:31:18] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 4129
+[05-Dec-2020 05:31:18] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 4389
+[05-Dec-2020 05:31:18] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 4647
+[05-Dec-2020 05:31:19] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 277
+[05-Dec-2020 05:31:19] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 471
+[05-Dec-2020 05:31:19] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 680
+[05-Dec-2020 05:31:19] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 1029
+[05-Dec-2020 05:31:19] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 1228
+[05-Dec-2020 05:31:19] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 1576
+[05-Dec-2020 05:31:19] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 2066
+[05-Dec-2020 05:31:19] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 2464
+[05-Dec-2020 05:31:19] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 2853
+[05-Dec-2020 05:31:19] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 3222
+[05-Dec-2020 05:31:19] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 3583
+[05-Dec-2020 05:31:19] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 3861
+[05-Dec-2020 05:31:19] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 4129
+[05-Dec-2020 05:31:19] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 4389
+[05-Dec-2020 05:31:19] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 4647
+[05-Dec-2020 05:31:20] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 277
+[05-Dec-2020 05:31:20] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 471
+[05-Dec-2020 05:31:20] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 680
+[05-Dec-2020 05:31:20] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 1029
+[05-Dec-2020 05:31:20] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 1228
+[05-Dec-2020 05:31:20] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 1576
+[05-Dec-2020 05:31:20] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 2066
+[05-Dec-2020 05:31:20] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 2464
+[05-Dec-2020 05:31:20] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 2853
+[05-Dec-2020 05:31:20] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 3222
+[05-Dec-2020 05:31:20] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 3583
+[05-Dec-2020 05:31:20] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 3861
+[05-Dec-2020 05:31:20] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 4129
+[05-Dec-2020 05:31:20] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 4389
+[05-Dec-2020 05:31:20] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/piic6383/public_html/dosen/dataHasil.php on line 4647
+[05-Dec-2020 07:44:26] PHP Notice:  Undefined index:  matkul in /home/piic6383/public_html/dosen/profil.php on line 11
+[05-Dec-2020 07:44:26] PHP Notice:  Undefined index:  matkul in /home/piic6383/public_html/dosen/profil.php on line 11
+[07-Dec-2020 02:56:02] PHP Notice:  Undefined index:  matkul in /home/piic6383/public_html/dosen/profil.php on line 11
