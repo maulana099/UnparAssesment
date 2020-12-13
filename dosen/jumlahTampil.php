@@ -19,10 +19,10 @@ $nama_lengkap = $data['nama_lengkap'];
       <p class="h3 mb-0 text-gray-800" style="font-size: 22px;"><?php echo $nokta;  ?></p>
     </div>
     <ol class="breadcrumb">
-      <button type="button" class="btn btn-success btn-sm" data-toggle="modal" data-target="#exampleModalCenter">
+      <!-- <button type="button" class="btn btn-success btn-sm" data-toggle="modal" data-target="#exampleModalCenter">
         Export Excell
-      </button>
-      <!-- <li class="breadcrumb-item active" aria-current="page"><a class="btn btn-sm btn-success" href="">Export Excell </a></li> -->
+      </button> -->
+      <li class="breadcrumb-item active" aria-current="page"><a class="btn btn-sm btn-success" href="reportPoin.php?&amp;&amp;id=<?php echo $nokta; ?>">Export Excell </a></li>
     </ol>
   </div>
   <!--<div class="row">-->
@@ -346,7 +346,7 @@ $nama_lengkap = $data['nama_lengkap'];
                 <tbody>
                   <?php
                   $nokta=$_GET['id'];
-                  $data = mysqli_query($connect, "SELECT * FROM hasil_pelatihan where nokta='$nokta'");
+                  $data = mysqli_query($connect, "SELECT * FROM hasil_pelatihanlain where nokta='$nokta'");
                   while($hasil = mysqli_fetch_array($data)){
                     ?>
                     <tr class="text-center">

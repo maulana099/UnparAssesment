@@ -16,6 +16,14 @@ if (isset($_GET['id'])) {
 ?>
 
 <?php
+	$nokta=$_GET['id'];
+	$sql = "SELECT * FROM profil WHERE nokta ='$nokta'";
+	$query=mysqli_query($connect, $sql);
+	$profil=mysqli_fetch_array($query);
+	$fotoProfil = $profil['photo'];
+?>
+
+<?php
 
 function getImages($value)
 {
@@ -26,8 +34,8 @@ function getImages($value)
 	return $base64;
 }
 
-$foto = getImages ('img_dsn/rocket.png');
-$cover = getImages('img_dsn/coverKU.jpg');
+$foto = getImages ('../mahasiswa/img_mhs/'.$fotoProfil);
+$cover = getImages('img_dsn/cover.png');
 ?>
 
 <?php ob_start(); ?>
@@ -35,10 +43,11 @@ $cover = getImages('img_dsn/coverKU.jpg');
 <html>
 <head>
 	<title>IPK Mahasiswa <?php echo $nama_lengkap; ?></title>
-	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
 </head>
 
-<style type="text/css">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
 
 @media print {
 	html, body {
@@ -48,24 +57,6 @@ $cover = getImages('img_dsn/coverKU.jpg');
 	}
 }
 
-p{
-	color: black; 
-	font-size: 36;
-	font-family: Arial, Helvetica, sans-serif; 
-}
-
-.contens p{
-	color: black; 
-	font-size: 12px;
-	font-family: Arial, Helvetica, sans-serif;
-}
-
-.contens h4{
-	color: #93abd3;
-	font-size: 18px;
-	font-family: Arial, Helvetica, sans-serif;
-}
-
 body{
 	background-image: url('<?php echo $cover?>');
 	background-size:   cover;                      /* <------ */
@@ -73,103 +64,257 @@ body{
 	background-position: center center;            /* optionally, center the image */
 }
 
-hr {
-	/*margin-top: 1rem;*/
-	/*margin-bottom: 1rem;*/
-	border: 0;
-	border-top: 1px solid #93abd3;
+* {
+	box-sizing: border-box;
 }
 
+table, th, td {
+	font-size: 12px;
+	font-family: Arial, Helvetica, sans-serif;
+	text-align: left;
+}
+
+#customers {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	/*border: 1px solid #ddd;*/
+	border-collapse: collapse;
+	width: 100%;
+	/*float: right;*/
+}
+
+#customers td, #customers th {
+	/*border: 1px solid #ddd;*/
+	padding: 4px;
+	/*text-align: center;*/
+}
+
+#customers tr:nth-child(even){background-color: #dddddd;}
+
+#customers tr:hover {background-color: #ddd;}
+
+#customers th {
+	padding-top: 6px;
+	padding-bottom: 6px;
+	/*text-align: c;*/
+	background-color: #fecd1a;
+	color: black;
+}
+
+/* Create two equal columns that floats next to each other */
+.column {
+	float: left;
+	width: 35%;
+	padding: 10px;
+	height: 300px; /* Should be removed. Only for demonstration */
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.column-2 {
+	float: left;
+	width: 65%;
+	height: 300px; /* Should be removed. Only for demonstration */
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+.header {
+	float: left;
+	width: 25%;
+	padding: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.header-2 {
+	float: left;
+	width: 60%;
+	padding: 40px;
+	font-family: Arial, Helvetica, sans-serif;
+	
+}
+
+.footer {
+	float: left;
+	width: 30%;
+	padding: 10px;
+	font-family: Arial, Helvetica, sans-serif;
+}
+
+.footer-2 {
+	float: left;
+	width: 30%;
+	padding: 5px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;	
+}
+
+.footer-3 {
+	float: left;
+	width: 40%;
+	padding: 5px;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;	
+}
+/* Clear floats after the columns */
+.row:after {
+	content: "";
+	display: table;
+	clear: both;
+}
 </style>
 
 <body>
-	<div class="container-fluid">
-		<div class="">
-			<div class="col-md-4">
-				<img class="rounded float-left" style="padding-top: 20px; border-radius: 100%;" src="<?php echo $foto ?>" width="130">
-			</div>
-			<div class="col-md-8" style="padding-top: 30px; padding-left: 60px;">
-				<p class=""><?php echo $nama_lengkap ?> <br/><span style="font-size: 28px;"><?php echo $nokta; ?></span></p>
-			</div>
+
+	<div class="row">
+		<div class="header">
+			<!-- <h1><?php echo $foto;?></h1> -->
+			<img class="rounded float-left" style="padding-top: 20px; border-radius: 100%; padding-left: 20px;" src="<?php echo $foto;  ?>" width="130" />
+		</div>
+		<div class="header-2">
+			<span style="font-size: 36px;"><?php echo $nama_lengkap ?></span>
 			<br/>
-			<div class="col-sm-3" style="float: left;">
-				<div class="contens">
-					<p>Tempat Lahir : <br/><?php echo $lahir; ?>, <?php echo date('d-m-Y', strtotime($tanggal)); ?></p>
-					<p>Lembaga : <br/>Universitas Katolik Parahyangan</p>
-					<p>Jabatan : <br/>Kepala Program Studi PPI</p>
-					<h4>CONTACT</h4>
-					<p>Telepon : <br/><?php echo $no_hp; ?></p>
-					<p>Email : <br/><?php echo $email;  ?></p>
-					<h4>PENDIDIKAN</h4>
-					<?php 
-					$data = mysqli_query($connect, "SELECT * FROM datapendidikan1 WHERE nokta ='$nokta'");
-					while($d = mysqli_fetch_array($data)){
-						?>
-						<p><?php echo $d['gelar'];  ?>, <?php echo $d['jurusan']; ?><br/><?php echo $d['perguruantinggi']; ?></p>
-					<?php } ?>
-				</div>
-			</div>
-			<div class="col-sm-8" style="float: left; margin-left: 30px;">
-				<div class="contens">
-					<p style="font-size: 16px;"><b>HASIL PENILAIAN AKADEMIK</b></p>
-					<hr/>
-					<p>Berdasarkan assesmen capaian pembelajaran yang dilakukan pada :<br/>Hari &nbsp; &nbsp; &nbsp; &nbsp; : &nbsp; Kamis <br/>Tanggal &nbsp;: &nbsp; </p>
-					<p>Dihasilkan Nilai Berikut :</p>
-					<div class="table-responsive">
-						<table class="table-sm" style="font-size: 11px;">
-							<thead style="background-color: #fecd1a;">
-								<tr>
-									<th>Kode</th>
-									<th>Mata Kuliah</th>
-									<th class="text-center">Sks</th>
-									<th class="text-center">Nilai</th>
-									<th class="text-center">Indeks</th>
-									<th class="text-center">AA</th>
-								</tr>
-							</thead>
-							<tbody style="background-color: #eeeeee;">
-								<?php
-								$data = mysqli_query($connect,"SELECT * FROM matakuliah INNER JOIN hasil_konversi ON hasil_konversi.mk = matakuliah.id WHERE hasil_konversi.nokta = $nokta");
-								while($d = mysqli_fetch_array($data)){
-									?>
-									<tr>
-										<td><?php echo $d['kodeMK']; ?></td>
-										<td><?php echo $d['mata_kuliah']; ?></td>
-										<td class="text-center"><?php echo $d['sks']; ?></td>
-										<td class="text-center"><?php echo $d['nilai']; ?></td>
-										<td class="text-center"><?php echo $d['indeks']; ?></td>
-										<td class="text-center"><?php echo $d['nilai_mutu']; ?></td>
-									</tr>
-								<?php } ?>
-							</tbody>
-						</table>
-					</div>
-					<br/>
-					<p>Oleh karena itu, mahasiswa yang tertera namanya dalam surat hasil assesmen ini memiliki : </p>
-					<?php  
-					$sql = "SELECT * FROM hasil_nilai WHERE nokta ='$nokta'";
-					$query=mysqli_query($connect, $sql);
-					$nilai=mysqli_fetch_array($query);
-					$ipk = $nilai['ipk'];
+			<span style="font-size: 28px;"><?php echo $nokta; ?></span>
+		</div>
+	</div>
+	<div class="row">
+		<div class="column">
+			<br/>
+			<table>
+				<tr>
+					<th>Tempat Lahir :</th>
+				</tr>
+				<tr>
+					<td><?php echo $lahir; ?>, <?php echo date('d-m-Y', strtotime($tanggal)); ?></td>
+				</tr>
+				<tr><td></td></tr>
+				<tr><td></td></tr>
+				<tr>
+					<th>Lembaga :</th>
+				</tr>
+				<tr>
+					<td>Universitas Katolik Parahyangan</td>
+				</tr>
+				<tr><td></td></tr>
+				<tr><td></td></tr>
+				<tr>
+					<th>Jabatan :</th>
+				</tr>
+				<tr>
+					<td>Kepala Program Studi PPI</td>
+				</tr>
+				<tr><td></td></tr>
+				<tr><td></td></tr>
+				<tr><td></td></tr>
+				<tr>
+					<th style="color: #93abd3; font-size: 18px;">CONTACT</th>
+				</tr>
+				<tr>
+					<th>Telepon :</th>
+				</tr>
+				<tr>
+					<td><?php echo $no_hp; ?></td>
+				</tr>
+				<tr><td></td></tr>
+				<tr><td></td></tr>
+				<tr>
+					<th>Email :</th>
+				</tr>
+				<tr>
+					<td><?php echo $email; ?></td>
+				</tr>
+				<tr><td></td></tr>
+				<tr><td></td></tr>
+				<tr><td></td></tr>
+				<tr>
+					<th style="color: #93abd3; font-size: 18px;">PENDIDIKAN</th>
+				</tr>
+				<?php 
+				$data = mysqli_query($connect, "SELECT * FROM datapendidikan1 WHERE nokta ='$nokta'");
+				while($d = mysqli_fetch_array($data)){
+					?>	
+					<tr>
+						<td><?php echo $d['gelar'];  ?>, <?php echo $d['jurusan']; ?> <br/><?php echo $d['perguruantinggi']; ?></td>
+					</tr>
+				<?php } ?>
+			</table>
+		</div>
+		<div class="column-2">
+			<p style="font-size: 16px;"><b>HASIL PENILAIAN AKADEMIK</b></p>
+			<hr style="color: #93abd3" />
+			<p>Berdasarkan assesmen capaian pembelajaran yang dilakukan pada :</p>
+			<table>
+				<tr>
+					<td>Hari</td>
+					<td>:</td>
+					<td>Kamis</td>
+				</tr>
+				<tr>
+					<td>Tanggal</td>
+					<td>:</td>
+					<td>10</td>
+				</tr>
+			</table>
+			<p>Dihasilkan Nilai Berikut :</p>
+			<table id="customers">
+				<tr>
+					<th>Kode</th>
+					<th>Mata Kuliah</th>
+					<th style="text-align: center;">Sks</th>
+					<th style="text-align: center;">Nilai</th>
+					<th style="text-align: center;">Indeks</th>
+					<th style="text-align: center;">AA</th>
+				</tr>
+				<?php
+				$data = mysqli_query($connect,"SELECT * FROM matakuliah INNER JOIN hasil_konversi ON hasil_konversi.mk = matakuliah.id WHERE hasil_konversi.nokta = $nokta");
+				while($d = mysqli_fetch_array($data)){
 					?>
-					<p class="col-sm-5" style="font-size: 16px; background-color: #fecd1a; padding: 5px;"><b> IPK &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <?php echo $ipk; ?></b></p>
-					<p>Berkas hasil assesmen capaian pembelajaran disertakan sebagai lampiran yang menjadi salah satu kesatuan nilai akademik berikut.</p>
-					<?php
-					setlocale(LC_ALL, 'id_ID');
-					$hariIni = new DateTime();
-					?>
-					<p style="float: right;">Karawang, <?php echo strftime('%d %B %Y', $hariIni->getTimestamp()); ?></p>
-					<br/>
-					<br/>
-					<p class="col-sm-5" style="text-align: center; float: left;">Asesor I</p>
-					<p class="col-sm-5" style="text-align: center; float: right;">Asesor II</p>
-					<br/>
-					<br/>
-					<br/>
-					<p class="col-sm-5" style="text-align: center; float: right;">Nama Dosen</p>
-					<p class="col-sm-5" style="text-align: center; float: left;">Nama Dosen</p>
-				</div>
-			</div>
+					<tr>
+						<td><?php echo $d['kodeMK']; ?></td>
+						<td><?php echo $d['mata_kuliah']; ?></td>
+						<td style="text-align: center;"><?php echo $d['sks']; ?></td>
+						<td style="text-align: center;"><?php echo $d['nilai']; ?></td>
+						<td style="text-align: center;"><?php echo $d['indeks']; ?></td>
+						<td style="text-align: center;"><?php echo $d['nilai_mutu']; ?></td>
+					</tr>
+				<?php } ?>
+			</table>
+
+			<p>Oleh karena itu, mahasiswa yang tertera namanya dalam surat hasil assesmen ini memiliki : </p>
+			<?php  
+			$sql = "SELECT * FROM hasil_nilai WHERE nokta ='$nokta'";
+			$query=mysqli_query($connect, $sql);
+			$nilai=mysqli_fetch_array($query);
+			$ipk = $nilai['ipk'];
+			?>
+			<p class="" style="font-size: 14px; background-color: #fecd1a; padding: 5px; float: left;"><b> IPK &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; <?php echo $ipk; ?></b></p>
+			<br/>
+			<br/>
+			<p>Berkas hasil assesmen capaian pembelajaran disertakan sebagai lampiran yang menjadi salah satu kesatuan nilai akademik berikut.</p>
+			<br/>
+			<?php
+			setlocale(LC_ALL, 'id_ID');
+			$hariIni = new DateTime();
+			?>
+			<p style="float: right;">Bandung, <?php echo strftime('%d %B %Y', $hariIni->getTimestamp()); ?></p>
+			<br/>
+			<br/>
+			<br/>
+		</div>
+	</div>
+	<div class="row">
+		<div class="footer">
+		</div>
+		<div class="footer-2">
+			<p style="text-align: center;">Asesor I</p>
+			<br/>
+			<br/>
+			<p style="text-align: center;">Nama Dosen I</p>
+		</div>
+		<div class="footer-3">
+			<p style="text-align: center;">Asesor II</p>
+			<br/>
+			<br/>
+			<p style="text-align: center;">Nama Dosen 2</p>
 		</div>
 	</div>
 
@@ -180,7 +325,7 @@ hr {
 
 $html = ob_get_clean(); 
 use Dompdf\Dompdf;
-require_once '../vendorPDF/autoload.php'; 
+require_once '../vendorPDF/autoload.php';
 define("DOMPDF_UNICODE_ENABLED", true);
 $dompdf = new Dompdf();
 $dompdf->loadHtml($html); 

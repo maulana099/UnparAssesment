@@ -19,10 +19,10 @@ $nama_lengkap = $data['nama_lengkap'];
       <p class="h3 mb-0 text-gray-800" style="font-size: 22px;"><?php echo $nokta;  ?></p>
     </div>
     <ol class="breadcrumb">
-    <!-- <li class="breadcrumb-item active" aria-current="page"><a class="btn btn-sm btn-success" href="">Export Excell </a></li> -->
-    <li class="breadcrumb-item active" aria-current="page"><button type="button" class="btn btn-success btn-sm" data-toggle="modal" data-target="#exampleModalCenter">
+    <li class="breadcrumb-item active" aria-current="page"><a class="btn btn-sm btn-success" href="reportTotal.php?&amp;&amp;id=<?php echo $nokta ?>">CETAK</a></li>
+    <!-- <li class="breadcrumb-item active" aria-current="page"><button type="button" class="btn btn-success btn-sm" data-toggle="modal" data-target="#exampleModalCenter">
         Export Excell
-      </button></li>
+      </button></li> -->
       <li class="breadcrumb-item active" aria-current="page"><a class="btn btn-danger btn-sm" href="index.php?page=resetTotal&amp;&amp;id=<?php echo $nokta; ?>">Reset Total Kompetensi</a></li>
       <?php
       $sql = "SELECT * from total_cpl where nokta='$nokta'";
@@ -216,8 +216,8 @@ $nama_lengkap = $data['nama_lengkap'];
                       <td style="padding-top: 20px; padding-bottom: 12px;"><?php echo $hasil['tot_KU02']; ?></td>
                     </tr>
                     <tr class="text-center">
-                      <td style="padding-top: 28px; padding-bottom: 28px;"><?php echo $hasil['jml_KU03']; ?></td>
-                      <td style="padding-top: 28px; padding-bottom: 28px;"><?php echo $hasil['tot_KU03']; ?></td>
+                      <td style="padding-top: 34px; padding-bottom: 46px;"><?php echo $hasil['jml_KU03']; ?></td>
+                      <td style="padding-top: 34px; padding-bottom: 46px;"><?php echo $hasil['tot_KU03']; ?></td>
                     </tr>
                     <tr class="text-center">
                       <td style="padding-top: 28px; padding-bottom: 28px;"><?php echo $hasil['jml_KU04']; ?></td>
@@ -269,8 +269,8 @@ $nama_lengkap = $data['nama_lengkap'];
                       <td style="padding-top: 20px; padding-bottom: 12px;"><?php echo $hasil['tot_KK02']; ?></td>
                     </tr>
                     <tr class="text-center">
-                      <td style="padding-top: 28px; padding-bottom: 28px;"><?php echo $hasil['jml_KK03']; ?></td>
-                      <td style="padding-top: 28px; padding-bottom: 28px;"><?php echo $hasil['tot_KK03']; ?></td>
+                      <td style="padding-top: 34px; padding-bottom: 46px;"><?php echo $hasil['jml_KK03']; ?></td>
+                      <td style="padding-top: 34px; padding-bottom: 46px;"><?php echo $hasil['tot_KK03']; ?></td>
                     </tr>
                     <tr class="text-center">
                       <td style="padding-top: 20px; padding-bottom: 12px;"><?php echo $hasil['jml_KK04']; ?></td>
