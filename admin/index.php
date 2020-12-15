@@ -80,6 +80,11 @@ if(!isset($_SESSION['id'])){
                 <i class="fab fa-fw fa-wpforms"></i>
                 <span>Konversi diKali</span></a>
               </li>
+              <!-- <li class="nav-item">
+              <a class="nav-link" href="index.php?page=asesor">
+                <i class="fab fa-fw fa-wpforms"></i>
+                <span>Nama Asesor</span></a>
+              </li> -->
             <hr class="sidebar-divider">
             <div class="version" id="version-ruangadmin"></div>
           </ul>

@@ -11,9 +11,8 @@ switch ($page) {
 	case "mahasiswa_edit" : include "edit_mahasiswa.php"; break;
 
 	case "dosen" : include "dosen.php"; break;
-	// case 'excelDosen':
-	// 	include "excelDosen.php";
-	// 	break;
+	case "asesor" : include "asesor.php"; break;
+	case 'editAsesor': include "editAsesor.php"; break;
 
 	case "mataKuliah":
 	include "mataKuliah.php";

@@ -22,7 +22,8 @@ $nokta = $data ['nokta'];
       <li class="breadcrumb-item active" aria-current="page">Isi Data Pengertian Keinsinyuran</li>
     </ol>
   </div>
-
+  <p><b>Pengertian, Pendapat dan Pengalaman Sendiri</b> </p>
+  <p><b><span style="color: red;">Notes</span></b> : jika salah satu Form tidak akan di isi, input dengan text<span style="color: red;"> * tidak ada</span>.</p>
   <form action="tambahdatakualifikasipengertian.php" method="post" enctype="multipart/form-data">
   <div class="row">
     <div class="col-lg-6">
@@ -57,13 +58,13 @@ $nokta = $data ['nokta'];
                     <div class="input-group-prepend"> 
                       <span class="input-group-text">Pengertian, Pendapat dan Pengalaman Sendiri</span>
                     </div>
-                    <textarea class="form-control" name="pengertian_keinsinyuran"></textarea>
+                    <textarea class="form-control" name="pengertian_keinsinyuran" required=""></textarea>
                     </div>
                     <div class="form-group">
                     <div class="input-group-prepend">
                       <span class="input-group-text">Kompetensi - <b> *SK,PP</b></span>
                     </div>
-                      <input type="text" name="kompetensi" class="form-control" id="exampleInputEmail1">
+                      <input type="text" name="kompetensi" class="form-control" id="exampleInputEmail1" required="">
                     </div>      
                     <input type="submit" class="btn btn-primary" name="tambah" value="Simpan Data">
                     </div>

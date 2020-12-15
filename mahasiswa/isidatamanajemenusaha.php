@@ -22,7 +22,8 @@ $nokta = $data ['nokta'];
       <li class="breadcrumb-item active" aria-current="page">KUALIFIKASI INSIYUR</li>
     </ol>
   </div>
-  <p><b><span style="color: red;">Notes</span></b> : Pengalaman Dalam Manajemen Usaha dan Pemasaran Teknik dan/atau Pengalaman Dalam Manajemen Pembangunan dan Pemeliharaan Asset</p>
+  <p><b>Pengalaman Dalam Manajemen Usaha dan Pemasaran Teknik dan/atau Pengalaman Dalam Manajemen Pembangunan dan Pemeliharaan Asset</b> </p>
+  <p><b><span style="color: red;">Notes</span></b> : jika salah satu Form tidak akan di isi, input dengan text<span style="color: red;"> * tidak ada</span>.</p>
 
    <form action="" method="POST" enctype="multipart/form-data">
     <div class="row">
@@ -49,13 +50,13 @@ $nokta = $data ['nokta'];
               <div class="">
                 <span class="">Periode</span>
               </div>
-              <input type="number" name="perioda" class="form-control">
+              <input type="number" name="perioda" class="form-control" required="">
             </div>
             <div class="form-group">
               <div class="">
                 <span class="">Perusahaan / perusahaan</span>
               </div>
-              <input type="text" class="form-control" name="perusahaan">
+              <input type="text" class="form-control" name="perusahaan" required="">
             </div>
           </div>
         </div>
@@ -69,32 +70,32 @@ $nokta = $data ['nokta'];
               <div class="">
                 <span class="">Nama Proyek</span>
               </div>
-              <input type="text" name="nama_proyek" class="form-control" id="exampleInputEmail1">
+              <input type="text" name="nama_proyek" class="form-control" id="exampleInputEmail1" required="">
             </div>
 
             <div class="form-group">
               <div class="">
                 <span class="">Lokasi</span>
               </div>
-              <input type="text" name="lokasi" class="form-control" id="exampleInputEmail1" >
+              <input type="text" name="lokasi" class="form-control" id="exampleInputEmail1"  required="">
             </div>
             <div class="form-group">
               <div class="">
                 <span class="">Posisi / posisi</span>
               </div>
-              <input type="text" name="posisi" class="form-control" id="exampleInputEmail1" >
+              <input type="text" name="posisi" class="form-control" id="exampleInputEmail1"  required="">
             </div>
             <div class="form-group">
               <div class="">
                 <span class="">Kegiatan</span>
               </div>
-              <input class="form-control" aria-label="With textarea" name="kegiatan"> 
+              <textarea cols="form-control" aria-label="With textarea" name="kegiatan" required=""></textarea>
             </div>
             <div class="form-group">
               <div class="">
                 <span class="">Kompetensi - <b> *KU, KK</b></span>
               </div>
-              <input type="text" name="kompetensi" class="form-control" id="exampleInputEmail1">
+              <input type="text" name="kompetensi" class="form-control" id="exampleInputEmail1" required="">
             </div>
 
             <input type="submit" class="btn btn-primary" name="tambahUsahaAsset" value="SIMPAN DATA">

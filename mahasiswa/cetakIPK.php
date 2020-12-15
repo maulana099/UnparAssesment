@@ -12,22 +12,19 @@ if (isset($_GET['id'])) {
 	$lahir = $data['tempat_lahir'];
 	$email = $data['email'];
 	$no_hp = $data['nohp'];
-	$alamat_lembaga = $data['alamat_lembaga'];
-	$alamat_rumah = $data['alamat_rumah'];
 }
 ?>
 
 <?php
-$nokta=$_GET['id'];
-$sql = "SELECT * FROM profil WHERE nokta ='$nokta'";
-$query=mysqli_query($connect, $sql);
-$profil=mysqli_fetch_array($query);
-$fotoProfil = $profil['photo'];
+	$nokta=$_GET['id'];
+	$sql = "SELECT * FROM profil WHERE nokta ='$nokta'";
+	$query=mysqli_query($connect, $sql);
+	$profil=mysqli_fetch_array($query);
+	$fotoProfil = $profil['photo'];
 
-if (empty($fotoProfil)) {
-	$fotoProfil = "tidak-ada.png";
-}
-
+	if (empty($fotoProfil)) {
+		$fotoProfil = "tidak-ada.png";
+	}
 ?>
 
 <?php
@@ -41,9 +38,8 @@ function getImages($value)
 	return $base64;
 }
 
-
-$foto = getImages ('../mahasiswa/img_mhs/'.$fotoProfil);
-$cover = getImages('img_dsn/cover.png');
+$foto = getImages ('img_mhs/'.$fotoProfil);
+$cover = getImages('../dosen/img_dsn/cover.png');
 ?>
 
 <?php ob_start(); ?>
@@ -176,7 +172,7 @@ table, th, td {
 	<div class="row">
 		<div class="header">
 			<!-- <h1><?php echo $foto;?></h1> -->
-			<img class="rounded float-left" style="padding-top: 20px; border-radius: 100%; padding-left: 20px;" src="<?php echo $foto;  ?>" width="130" alt="<?php echo $nama_lengkap; ?>" />
+			<img class="rounded float-left" style="padding-top: 20px; border-radius: 100%; padding-left: 20px;" src="<?php echo $foto;  ?>" width="130" />
 		</div>
 		<div class="header-2">
 			<span style="font-size: 36px;"><?php echo $nama_lengkap ?></span>
@@ -197,18 +193,18 @@ table, th, td {
 				<tr><td></td></tr>
 				<tr><td></td></tr>
 				<tr>
-					<th>Alamat :</th>
-				</tr>
-				<tr>
-					<td><?php echo $alamat_rumah; ?></td>
-				</tr>
-				<tr><td></td></tr>
-				<tr><td></td></tr>
-				<tr>
 					<th>Lembaga :</th>
 				</tr>
 				<tr>
-					<td><?php echo $alamat_lembaga; ?></td>
+					<td>Universitas Katolik Parahyangan</td>
+				</tr>
+				<tr><td></td></tr>
+				<tr><td></td></tr>
+				<tr>
+					<th>Jabatan :</th>
+				</tr>
+				<tr>
+					<td>Kepala Program Studi PPI</td>
 				</tr>
 				<tr><td></td></tr>
 				<tr><td></td></tr>
@@ -249,7 +245,20 @@ table, th, td {
 		<div class="column-2">
 			<p style="font-size: 16px;"><b>HASIL PENILAIAN AKADEMIK</b></p>
 			<hr style="color: #93abd3" />
-			<p>Berdasarkan assesmen capaian pembelajaran dihasilkan nilai berikut:</p>
+			<p>Berdasarkan assesmen capaian pembelajaran yang dilakukan pada :</p>
+			<table>
+				<tr>
+					<td>Hari</td>
+					<td>:</td>
+					<td>Kamis</td>
+				</tr>
+				<tr>
+					<td>Tanggal</td>
+					<td>:</td>
+					<td>10</td>
+				</tr>
+			</table>
+			<p>Dihasilkan Nilai Berikut :</p>
 			<table id="customers">
 				<tr>
 					<th>Kode</th>
@@ -286,6 +295,7 @@ table, th, td {
 			<br/>
 			<p>Berkas hasil assesmen capaian pembelajaran disertakan sebagai lampiran yang menjadi salah satu kesatuan nilai akademik berikut.</p>
 			<br/>
+			<br/>
 			<?php
 			setlocale(LC_ALL, 'id_ID');
 			$hariIni = new DateTime();
@@ -294,8 +304,16 @@ table, th, td {
 			<br/>
 			<br/>
 			<br/>
+			<br/>
 		</div>
 	</div>
+	<?php  
+	$sql = "SELECT * FROM asesor";
+	$queryA=mysqli_query($connect, $sql);
+	$asesor=mysqli_fetch_array($queryA);
+	$asesor1 = $asesor['asesor_satu'];
+	$asesor2 = $asesor['asesor_dua'];
+	?>
 	<div class="row">
 		<div class="footer">
 		</div>
@@ -305,7 +323,7 @@ table, th, td {
 			<br/>
 			<br/>
 			<br/>
-			<p style="text-align: center; color: #F0F0F0;">(gelar. nama <span style="color: black;">-</span> gelar1., gelar2)</p>
+			<p style="text-align: center;">( <?php echo $asesor1; ?> )</p>
 		</div>
 		<div class="footer-3">
 			<p style="text-align: center;">Asesor II</p>
@@ -313,7 +331,7 @@ table, th, td {
 			<br/>
 			<br/>
 			<br/>
-			<p style="text-align: center; color: #F0F0F0">(gelar. nama <span style="color: black;">-</span> gelar1., gelar2)</p>
+			<p style="text-align: center;">( <?php echo $asesor2; ?> )</p>
 		</div>
 	</div>
 
@@ -324,7 +342,7 @@ table, th, td {
 
 $html = ob_get_clean(); 
 use Dompdf\Dompdf;
-require_once '../vendorPDF/vendor/autoload.php';
+require_once '../vendorPDF/autoload.php';
 define("DOMPDF_UNICODE_ENABLED", true);
 $dompdf = new Dompdf();
 $dompdf->loadHtml($html); 

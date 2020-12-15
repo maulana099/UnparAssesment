@@ -253,14 +253,14 @@ if (isset($_POST['hitungNilai'])) {
   }elseif (($nilai >= 60) && ($nilai <= 63)) {
     $nilai_mutu = 2;
     $indeks = "C+";
-  }elseif (($nilai >= 50) && ($nilai <= 60)) {
+  }elseif (($nilai >= 49) && ($nilai <= 60)) {
     $nilai_mutu = 1;
     $indeks = "D";
-  }elseif (($nilai >= 49) && ($nilai <= 0)) {
+  }elseif (($nilai >= 0)){
     $nilai_mutu = 0;
     $indeks = "E";
   }else{
-    $nilai_mutu = 00;
+    $nilai_mutu = 0;
     $indeks = "Indeks Tidak Ada";
   }
 

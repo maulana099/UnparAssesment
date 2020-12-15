@@ -22,7 +22,7 @@ $nama_lengkap = $data['nama_lengkap'];
       <!-- <button type="button" class="btn btn-success btn-sm" data-toggle="modal" data-target="#exampleModalCenter">
         Export Excell
       </button> -->
-      <li class="breadcrumb-item active" aria-current="page"><a class="btn btn-sm btn-success" href="reportPoin.php?&amp;&amp;id=<?php echo $nokta; ?>">Export Excell </a></li>
+      <li class="breadcrumb-item active" aria-current="page"><a class="btn btn-sm btn-info" href="reportPoin.php?&amp;&amp;id=<?php echo $nokta; ?>">CETAK KOMPETENSI FAM</a></li>
     </ol>
   </div>
   <!--<div class="row">-->

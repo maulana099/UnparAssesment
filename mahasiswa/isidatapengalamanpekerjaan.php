@@ -22,8 +22,8 @@ $nokta = $data ['nokta'];
       <li class="breadcrumb-item active" aria-current="page">KUALIFIKASI INSIYUR</li>
     </ol>
   </div>
-  <p><b><span style="color: red;">Notes</span></b> : Pengalaman Dalam Pekerjaan Manufaktur atau Produksi dan/atau Pengalaman Dalam Konsultansi Perekayasaan dan/atau Konstruksi/Instalasi.</p>
-
+  <p><b>Pengalaman Dalam Pekerjaan Manufaktur atau Produksi dan/atau Pengalaman Dalam Konsultansi Perekayasaan dan/atau Konstruksi/Instalasi.</b> </p>
+  <p><b><span style="color: red;">Notes</span></b> : jika salah satu Form tidak akan di isi, input dengan text<span style="color: red;"> * tidak ada</span>.</p>
   <form action="" method="POST" enctype="multipart/form-data">
     <div class="row">
       <div class="col-lg-6">
@@ -50,19 +50,19 @@ $nokta = $data ['nokta'];
               <div class="">
                 <span class="">Periode</span>
               </div>
-              <input type="number" name="perioda" class="form-control">
+              <input type="number" name="perioda" class="form-control" required="" placeholder="tidak ada">
               </div>
               <div class="form-group">
               <div class="">
                 <span class="">Perusahaan / Intansi</span>
               </div>
-              <input type="text" class="form-control" name="intansi">
+              <input type="text" class="form-control" name="intansi" required="">
             </div>
             <div class="form-group">
               <div class="">
                 <span class="">Nama Proyek</span>
               </div>
-              <input type="text" class="form-control" name="nama_proyek">
+              <input type="text" class="form-control" name="nama_proyek" required="">
             </div>
           </div>
         </div>
@@ -76,26 +76,26 @@ $nokta = $data ['nokta'];
               <div class="">
                 <span class="">Lokasi</span>
               </div>
-              <textarea name="lokasi" class="form-control" id="exampleInputEmail1"></textarea> 
+              <textarea name="lokasi" class="form-control" id="exampleInputEmail1" required=""></textarea> 
             </div>
 
             <div class="form-group">
               <div class="">
                 <span class="">Posisi / Jabatan</span>
               </div>
-              <input type="text" name="jabatan" class="form-control" id="exampleInputEmail1">
+              <input type="text" name="jabatan" class="form-control" id="exampleInputEmail1" required="">
             </div>
             <div class="form-group">
               <div class="">
                 <span class="">Kegiatan</span>
               </div>
-              <input class="form-control" aria-label="With textarea" name="kegiatan"> 
+              <textarea class="form-control" aria-label="With textarea" name="kegiatan" required=""></textarea>
             </div>
             <div class="form-group">
               <div class="">
                 <span class="">Kompetensi - <b> *KU, KK</b></span>
               </div>
-              <input type="text" name="kompetensi" class="form-control" id="exampleInputEmail1">
+              <input type="text" name="kompetensi" class="form-control" id="exampleInputEmail1" required="">
             </div>
 
             <input type="submit" class="btn btn-primary" name="tambahManufaktur" value="Simpan Data">

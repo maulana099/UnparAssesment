@@ -12,10 +12,35 @@ $nokta = $data ['nokta'];
 $nama_lengkap = $data['nama_lengkap'];
 
 ?>
+<style type="text/css">
+  .boton {
+  background-color: #4CAF50; /* Green */
+  border-radius: 5%;
+  color: white;
+  padding: 10px 15px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+}
+
+.boton1 {
+  box-shadow: 0 2px 2px 0 rgba(0,0,0,0.2), 0 2px 2px 0 rgba(0,0,0,0.19);
+}
+
+.boton2:hover {
+  box-shadow: 0 12px 16px 0 rgba(0,0,0,0.24),0 17px 50px 0 rgba(0,0,0,0.19);
+}
+
+</style>
  <div class="container-fluid" id="container-wrapper">
   <div class="d-sm-flex align-items-center justify-content-between mb-4">
     <h1 class="h3 mb-0 text-gray-800">Nilai Indeks Faktor MK</h1>
-    <a href="cetakIPK.php?&amp;&amp;id=<?php echo $data['nokta']; ?>" class="btn btn-success btn-sm" target="_blank" >Cetak IPK</a>
+    <a style="" href="cetakIPK.php?&amp;&amp;id=<?php echo $data['nokta']; ?>" class="boton boton1" target="_blank" >CETAK NILAI CPL</a>
     <!-- <button type="button" class="btn btn-success btn-sm" data-toggle="modal" data-target="#exampleModalCenter">
         CETAK IPK
       </button> -->
@@ -52,7 +77,8 @@ $nama_lengkap = $data['nama_lengkap'];
                 <th>Mata Kuliah</th>
                 <th class="text-center">SKS</th>
                 <th class="text-center">Nilai Mhs</th>
-                <th class="text-center">Nilai AA</th>
+                <th class="text-center">Indeks</th>
+                <th class="text-center">AA</th>
                 <th>Aksi</th>
               </tr>
             </thead>
@@ -68,6 +94,7 @@ $nama_lengkap = $data['nama_lengkap'];
                   <td><?php echo $d['mata_kuliah']; ?></td>
                   <td class="text-center"><?php echo $d['sks']; ?></td>
                   <td class="text-center"><?php echo $d['nilai']; ?></td>
+                  <td class="text-center"><?php echo $d['indeks']; ?></td>
                   <td class="text-center"><?php echo $d['nilai_mutu']; ?></td>
                   <td>
                   <a onclick="return confirm('Yakin Anda Akan Menghapus MK ini')" href="hapusMK.php?id=<?php echo $d['id'];?>" class="btn btn-danger btn-sm" ><i class="fas fa-trash"></i></a>

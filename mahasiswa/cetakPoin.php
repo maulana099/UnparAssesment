@@ -13,7 +13,7 @@ if (isset($_GET['id'])) {
 	$email = $data['email'];
 	$no_hp = $data['nohp'];
 }
-?> 
+?>
 
 
 <?php ob_start(); ?>
@@ -61,8 +61,8 @@ if (isset($_GET['id'])) {
 		padding: 4px;
 	}
 
-	/*#customers tr:nth-child(even){background-color: #f2f2f2;}*/
-	#customers tr:nth-child(even){background-color: #fdb827;}
+	#customers tr:nth-child(even){background-color: #dddddd;}
+	/*#customers tr:nth-child(even){background-color: #fdb827;}*/
 
 	#customers tr:hover {background-color: #ddd;}
 	
@@ -92,7 +92,7 @@ if (isset($_GET['id'])) {
 		/*width: 100%;*/
 	}
 
-	#customers22 tr:nth-child(even){background-color: #fdb827;}
+	#customers22 tr:nth-child(even){background-color: #dddddd;}
 
 	#customers22 tr:hover {background-color: #ddd;}
 
@@ -1796,7 +1796,7 @@ if (isset($_GET['id'])) {
 									<br/>
 									<br/>
 									<br/>
-									<p style="text-align: center; color: #F0F0F0;">(gelar. nama <span style="color: black;">-</span> gelar1., gelar2)</p>
+									<p style="text-align: center;">( <?php echo $asesor1; ?> )</p>
 								</div>
 								<div class="b">
 									<p style="text-align: center;">Asesor II</p>
@@ -1804,7 +1804,7 @@ if (isset($_GET['id'])) {
 									<br/>
 									<br/>
 									<br/>
-									<p style="text-align: center; color: #F0F0F0;">(gelar. nama <span style="color: black;">-</span> gelar1., gelar2)</p>
+									<p style="text-align: center;">( <?php echo $asesor2; ?> )</p>
 								</div>
 							</div>
 
@@ -1815,7 +1815,7 @@ if (isset($_GET['id'])) {
 
 						$html = ob_get_clean(); 
 						use Dompdf\Dompdf;
-						require_once '../vendorPDF/vendor/autoload.php'; 
+						require_once '../vendorPDF/autoload.php'; 
 						define("DOMPDF_UNICODE_ENABLED", true);
 						$dompdf = new Dompdf();
 						$dompdf->loadHtml($html); 

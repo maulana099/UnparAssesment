@@ -22,7 +22,8 @@ $nokta = $data ['nokta'];
       <li class="breadcrumb-item active" aria-current="page">Isi Data Pendidikan</li>
     </ol>
   </div>
-
+<p><b>Pendidikan Formal</b> </p>
+  <p><b><span style="color: red;">Notes</span></b> : jika salah satu Form tidak akan di isi, input dengan text<span style="color: red;"> * tidak ada</span>.</p>
   <form action="tambahdatapendidikan.php" method="post" enctype="multipart/form-data">
   <div class="row">
     <div class="col-lg-6">
@@ -49,24 +50,24 @@ $nokta = $data ['nokta'];
                   <div class="input-group-prepend">
                       <span class="input-group-text">Tingkat Pendidikan</span>
                     </div>
-              <input type="text" name="tingkatpendidikan" class="form-control">
+              <input type="text" name="tingkatpendidikan" class="form-control" required="" placeholder="tidak ada">
             <br>
               <div class="input-group-prepend">
                       <span class="input-group-text">Perguruan Tinggi</span>
                     </div>
-                        <input type="text" class="form-control" name="perguruantinggi">
+                        <input type="text" class="form-control" name="perguruantinggi" required="">
                     <br>
                     <div class="form-group">
                     <div class="input-group-prepend">
                       <span class="input-group-text">Fakultas</span>
                     </div>
-              <input type="text" name="fakultas" class="form-control" id="exampleInputEmail1">
+              <input type="text" name="fakultas" class="form-control" id="exampleInputEmail1" required="">
             </div>
             <div class="form-group">
                     <div class="input-group-prepend">
                       <span class="input-group-text">Jurusan</span>
                     </div>
-                    <input class="form-control" aria-label="With textarea" name="jurusan"> 
+                    <input class="form-control" aria-label="With textarea" name="jurusan" required=""> 
                     </div>
                    </div>
                  </div>
@@ -81,37 +82,37 @@ $nokta = $data ['nokta'];
                     <div class="input-group-prepend">
                       <span class="input-group-text">Kota</span>
                     </div>
-                    <input class="form-control" aria-label="With textarea" name="kota">
+                    <input class="form-control" aria-label="With textarea" name="kota" required="">
                     </div>
                     <div class="form-group">
                     <div class="input-group-prepend">
                       <span class="input-group-text">Negara</span>
                     </div>
-                      <input type="text" name="negara" class="form-control" id="exampleInputEmail1">
+                      <input type="text" name="negara" class="form-control" id="exampleInputEmail1" required="">
                     </div>
                     <div class="form-group">
                     <div class="input-group-prepend">
                       <span class="input-group-text">Tahun Lulus</span>
                     </div>
-                      <input type="text" name="tahunlulus" class="form-control" id="exampleInputEmail1">
+                      <input type="text" name="tahunlulus" class="form-control" id="exampleInputEmail1" required="">
                     </div>
                     <div class="form-group">
                     <div class="input-group-prepend">
                       <span class="input-group-text">Gelar</span>
                     </div>
-                      <input type="text" name="gelar" class="form-control" id="exampleInputEmail1">
+                      <input type="text" name="gelar" class="form-control" id="exampleInputEmail1" required="">
                     </div>
                     <div class="form-group">
                     <div class="input-group-prepend">
                       <span class="input-group-text">Judul Tugas Akhir</span>
                     </div>
-                      <input type="text" name="judulta" class="form-control" id="exampleInputEmail1">
+                      <input type="text" name="judulta" class="form-control" id="exampleInputEmail1" required="">
                     </div>
                     <div class="form-group">
                     <div class="input-group-prepend">
                       <span class="input-group-text">Deskripsi Tugas Akhir</span></span>
                     </div>
-                      <input type="text" name="deskripsita" class="form-control" id="exampleInputEmail1">
+                      <input type="text" name="deskripsita" class="form-control" id="exampleInputEmail1" required="">
                     </div>
                                 
                     <input type="submit" class="btn btn-primary" name="tambah" value="Simpan Data">

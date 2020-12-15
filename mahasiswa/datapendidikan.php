@@ -63,8 +63,11 @@
         <td><?php echo $d['tahunlulus']; ?></td>
         <td><?php echo $d['gelar']; ?></td>
         <td><?php echo $d['judulta']; ?></td>
-        <td><?php echo $d['deskripsita']; ?></td>
-
+        <td><details>
+            <summary>Details</summary>
+            <p><?php echo $d['deskripsita']; ?></p>
+            </details>
+        </td>
         <td>
           <a href="index.php?page=pendidikan_edit&amp;&amp;id=<?php echo $d['id']; ?>" onclick="return confirm('Yakin Akan Mengedit Data Ini ?')" class="btn btn-sm btn-primary">Edit</a>
           <a href="index.php?page=pendidikan_delete&amp;&amp;id=<?php echo $d['id']; ?>" onclick="return confirm('Yakin Akan hapus Data Ini ?')" class="btn btn-sm btn-outline-primary">Hapus</a>

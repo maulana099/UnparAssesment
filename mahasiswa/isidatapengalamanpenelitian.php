@@ -23,6 +23,9 @@ $nokta = $data ['nokta'];
     </ol>
   </div>
 
+  <p><b>Pengalaman  Dalam Penelitian, Pengembangan dan Komersialisasi dan/atau Pengalaman Menangani  Bahan Material dan Komponen .</b> </p>
+  <p><b><span style="color: red;">Notes</span></b> : jika salah satu Form tidak akan di isi, input dengan text<span style="color: red;"> * tidak ada</span>.</p>
+
   <form action="tambahdatapengalamanpenelitian.php" method="post" enctype="multipart/form-data">
   <div class="row">
     <div class="col-lg-6">
@@ -49,12 +52,12 @@ $nokta = $data ['nokta'];
                   <div class="input-group-prepend">
                       <span class="input-group-text">Periode</span>
                     </div>
-              <input type="text" name="periode" class="form-control">
+                    <input type="text" name="periode" class="form-control" required="" placeholder="tidak ada">
             <br>
               <div class="input-group-prepend">
                       <span class="input-group-text">Nama Tempat / Instansi</span>
                     </div>
-                        <input type="text" class="form-control" name="nama_tempat">
+                        <input type="text" class="form-control" name="nama_tempat" required="">
                     <br>
                    </div>
                  </div>
@@ -67,19 +70,19 @@ $nokta = $data ['nokta'];
                 <div class="input-group-prepend">
                       <span class="input-group-text">Jabatan</span>
                     </div>
-                        <input type="text" class="form-control" name="jabatan">
+                        <input type="text" class="form-control" name="jabatan" required="">
                     <br>
                     <div class="form-group">
                     <div class="input-group-prepend">
                       <span class="input-group-text">Uraian Singkat</span>
                     </div>
-                    <textarea class="form-control" name="uraian"></textarea>
+                    <textarea class="form-control" name="uraian" required=""></textarea>
                     </div>
                     <div class="form-group">
                     <div class="input-group-prepend">
                       <span class="input-group-text">Kompetensi - <b> *PP,KU</b></span>
                     </div>
-                      <input type="text" name="kompetensi" class="form-control" id="exampleInputEmail1">
+                      <input type="text" name="kompetensi" class="form-control" id="exampleInputEmail1" required="">
                     </div>      
                     <input type="submit" class="btn btn-primary" name="tambah" value="Simpan Data">
                     </div>

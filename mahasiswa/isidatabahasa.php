@@ -22,7 +22,7 @@ $nokta = $data ['nokta'];
       <li class="breadcrumb-item active" aria-current="page">BAHASA</li>
     </ol>
   </div>
-  <p><b><span style="color: red;">Notes</span></b> : Kemampuan Bahasa Yang Dikuasai.</p>
+<p><b><span style="color: red;">Notes</span></b> : jika salah satu Form tidak akan di isi input dengan text<span style="color: red;"> * kosong</span>.</p>
 
   <form action="" method="POST" enctype="multipart/form-data">
     <div class="row">
@@ -50,31 +50,31 @@ $nokta = $data ['nokta'];
               <div class="">
                 <span class="">Nama Bahasa</span>
               </div>
-              <input type="text" name="nama_bahasa" class="form-control">
+              <input type="text" name="nama_bahasa" class="form-control" placeholder="kosong" required="">
             </div>
             <div class="form-group" id="simple-date1">
               <div class="">
                 <span class="">Kemampuan Verbal Aktif / Pasif</span>
               </div>
-              <input type="text" name="kemampuan" class="form-control">
+              <input type="text" name="kemampuan" class="form-control" required="">
               </div>
               <div class="form-group">
               <div class="">
                 <span class="">tulisan yg mampu di susun</span>
               </div>
-              <input type="text" class="form-control" name="tulisan">
+              <input type="text" class="form-control" name="tulisan" required="">
             </div>
             <div class="form-group">
               <div class="">
                 <span class="">Nilai Toefl / Sejenisnya</span>
               </div>
-              <input type="text" class="form-control" name="toefl">
+              <input type="text" class="form-control" name="toefl" required="">
             </div>
             <div class="form-group">
               <div class="">
                 <span class="">Kompetensi</span>
               </div>
-              <input type="text" class="form-control" name="kompetensi">
+              <input type="text" class="form-control" name="kompetensi" required="">
             </div>
               <div class="form-group">   
 

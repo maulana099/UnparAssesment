@@ -19,7 +19,7 @@ $nama_lengkap = $data['nama_lengkap'];
       <p class="h3 mb-0 text-gray-800" style="font-size: 22px;"><?php echo $nokta;  ?></p>
     </div>
     <ol class="breadcrumb">
-    <li class="breadcrumb-item active" aria-current="page"><a class="btn btn-sm btn-success" href="reportTotal.php?&amp;&amp;id=<?php echo $nokta ?>">CETAK</a></li>
+    <li class="breadcrumb-item active" aria-current="page"><a class="btn btn-sm btn-info" href="reportTotal.php?&amp;&amp;id=<?php echo $nokta ?>">CETAK TOTAL KOMPETENSI</a></li>
     <!-- <li class="breadcrumb-item active" aria-current="page"><button type="button" class="btn btn-success btn-sm" data-toggle="modal" data-target="#exampleModalCenter">
         Export Excell
       </button></li> -->
@@ -30,7 +30,7 @@ $nama_lengkap = $data['nama_lengkap'];
       $row=mysqli_fetch_array($query);
       $statusCpl = $row['status'];
       if ($statusCpl == 0) {
-        echo "<li class='breadcrumb-item active' aria-current='page'><a class='btn btn-info btn-sm' href='index.php?page=konversiCpl&amp;&amp;id=$nokta'>Konversikan Kompetensi</a></li>";
+        echo "<li class='breadcrumb-item active' aria-current='page'><a class='btn btn-success btn-sm' href='index.php?page=konversiCpl&amp;&amp;id=$nokta'>Totalkan Kompetensi</a></li>";
       }
       ?>
     </ol>

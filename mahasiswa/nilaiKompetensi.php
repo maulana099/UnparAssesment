@@ -16,10 +16,10 @@ $nama_lengkap = $data['nama_lengkap'];
       <p class="h3 mb-0 text-gray-800" style="font-size: 22px;"><?php echo $nokta;  ?></p>
     </div>
     <ol class="breadcrumb">
-       <!-- <a href="cetak.php" class="btn btn-success btn-sm">CETAK</a> -->
-      <li class="breadcrumb-item active" aria-current="page"><button type="button" class="btn btn-success btn-sm" data-toggle="modal" data-target="#exampleModalCenter">
-        CETAK
-      </button></li>
+       <!-- <li class="breadcrumb-item active" aria-current="page"><a href="cetakIPK.php?&amp;&amp;id=<?php echo $nokta ?>" class="btn btn-primary btn-sm">CETAK IPK</a></li> -->
+      <!-- <li class="breadcrumb-item active" aria-current="page"><button type="button" class="btn btn-primary btn-sm" data-toggle="modal" data-target="#exampleModalCenter">
+        CETAK IPK
+      </button></li> -->
     </ol>
   </div>
 

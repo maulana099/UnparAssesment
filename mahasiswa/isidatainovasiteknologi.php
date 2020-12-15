@@ -22,7 +22,8 @@ $nokta = $data ['nokta'];
       <li class="breadcrumb-item active" aria-current="page">INOVASI TEKNOLOGI</li>
     </ol>
   </div>
-  <p><b><span style="color: red;">Notes</span></b> : Karya Temuan/Inovasi/Paten dan Implementasi Teknologi  Baru  </p>
+  <p><b>Karya Temuan/Inovasi/Paten dan Implementasi Teknologi  Baru </b> </p>
+  <p><b><span style="color: red;">Notes</span></b> : jika salah satu Form tidak akan di isi, input dengan text<span style="color: red;"> * tidak ada</span>.</p>
 
   <form action="" method="POST" enctype="multipart/form-data">
     <div class="row">
@@ -50,31 +51,31 @@ $nokta = $data ['nokta'];
               <div class="">
                 <span class="">Bulan - Tahun</span>
               </div>
-              <input type="text" name="bulan" class="form-control">
+              <input type="text" name="bulan" class="form-control" placeholder="tidak ada" required="">
               </div>
               <div class="form-group">
               <div class="">
                 <span class="">Judul Karya</span>
               </div>
-              <input type="text" class="form-control" name="judul">
+              <input type="text" class="form-control" name="judul"  required="">
             </div>
             <div class="form-group">
               <div class="">
                 <span class="">Uraian Singkat </span>
               </div>
-              <textarea type="text" class="form-control" name="uraian"></textarea>
+              <textarea type="text" class="form-control" name="uraian" required=""></textarea>
             </div>
             <div class="form-group">
               <div class="">
                 <span class="">Media Publikasi</span>
               </div>
-              <input type="text" class="form-control" name="media">
+              <input type="text" class="form-control" name="media" required="">
             </div>
             <div class="form-group">
               <div class="">
                 <span class="">Kompetensi - <b> * KK</b></span>
               </div>
-              <input type="text" class="form-control" name="kompetensi">
+              <input type="text" class="form-control" name="kompetensi" required="">
             </div>
               <div class="form-group"> 
             <input type="submit" class="btn btn-primary" name="tambahInovasi" value="Simpan Data">

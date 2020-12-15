@@ -104,29 +104,6 @@ if (isset($_GET['id'])) {
 		color: black;
 	}
 
-	div.a {
-		position: relative;
-		width: 400px;
-		height: 200px;
-		/*border: 3px solid red;*/
-	}
-
-	div.b {
-		position: relative;
-		left: 400px;  
-		width: 300px;
-		height: 120px;
-		/*border: 3px solid green;*/
-	} 
-
-	div.c {
-		position: relative;
-		right: 250px;  
-		width: 300px;
-		height: 120px;
-		/*border: 3px solid green;*/
-	}
-
 </style>
 
 <body>
@@ -520,6 +497,7 @@ if (isset($_GET['id'])) {
 			</table>
 		</div>
 	</div>
+
 	<span style="color: white;">-</span>
 	<br/>
 	<br/>
@@ -547,7 +525,7 @@ if (isset($_GET['id'])) {
 				<td>Asesor I</td>
 			</tr>
 			<tr style="text-align: center;">
-				<td style="padding-top: 90px; color: #F0F0F0;">(gelar. nama <span style="color: black;">-</span> gelar1., gelar2)</td>
+				<td style="padding-top: 90px;">( <?php echo $asesor1;  ?> )</td>
 			</tr>
 		</table>
 
@@ -555,8 +533,9 @@ if (isset($_GET['id'])) {
 			<tr style="text-align: center;">
 				<td>Asesor II</td>
 			</tr>
+
 			<tr style="text-align: center;">
-				<td style="padding-top: 90px; color: #F0F0F0;">(gelar. nama <span style="color: black;">-</span> gelar1., gelar2)</td>
+				<td style="padding-top: 90px;">( <?php echo $asesor2;  ?> )</td>
 			</tr>
 		</table>
 	</div>
@@ -568,7 +547,7 @@ if (isset($_GET['id'])) {
 
 $html = ob_get_clean(); 
 use Dompdf\Dompdf;
-require_once ("../vendorPDF/vendor/autoload.php"); 
+require_once ("../vendorPDF/autoload.php"); 
 define("DOMPDF_UNICODE_ENABLED", true);
 $dompdf = new Dompdf();
 $dompdf->loadHtml($html); 

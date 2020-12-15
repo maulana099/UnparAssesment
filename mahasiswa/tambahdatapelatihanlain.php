@@ -10,12 +10,10 @@ $nama_pelatihan = $_POST['nama_pelatihan'];
 $tahun = $_POST['tahun'];
 $jumlah = $_POST['jumlah'];
 $uraian = $_POST['uraian'];
-$jenis_pelatihan = $_POST['jenis_pelatihan'];
 $kompetensi = $_POST['kompetensi'];
-$bukti_berkas = $_POST['bukti_berkas'];
 
-mysqli_query($connect, "INSERT INTO datapelatihan VALUES ('','$nokta','$nama_lengkap','$nama_pelatihan','$tahun','$jumlah','$uraian','$jenis_pelatihan','$kompetensi','')");
+$sql = mysqli_query($connect, "INSERT INTO datapelatihanlain VALUES ('','$nokta','$nama_lengkap','$nama_pelatihan','$tahun','$jumlah','$uraian','$kompetensi','')");
 
-header('location:index.php?page=datapelatihan');
+header('location:index.php?page=datapelatihanlain');
 
 ?>
